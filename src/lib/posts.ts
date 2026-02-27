@@ -528,6 +528,86 @@ Read more on our [blog](/blog) for wellness tips and LA area service updates.`,
     author: "Immunity IV LA",
     tags: ["Venice", "Venice Beach", "IV Therapy", "Mobile IV", "Immune Boost", "Westside"],
     image: "/images/venice-beach-iv.jpg"
+  },
+  {
+    slug: "mobile-iv-therapy-agoura-hills",
+    title: "Mobile IV Therapy Agoura Hills — Immune Boost & Hydration",
+    description: "Mobile IV therapy in Agoura Hills for immune support and fast hydration—licensed clinicians come to you. Same-day appointments, easy online booking today.",
+    content: `## Mobile IV Therapy, Delivered in Agoura Hills
+
+Life moves fast in Los Angeles—and sometimes the hardest part of “taking care of yourself” is finding the time. Immunity IV LA offers mobile IV therapy in **Agoura Hills**, bringing hydration and immune-supporting nutrients to your home, hotel, or office so you can recover comfortably without sitting in a waiting room.
+
+If you’re feeling depleted, dehydrated, or simply want proactive wellness support, IV therapy can be a practical option because it delivers fluids and nutrients directly into the bloodstream for efficient absorption. Many people notice they feel more refreshed soon after treatment—especially when dehydration is part of the problem.
+
+## Why This Area Is a Great Fit (Suburban, Family-Friendly, Near Malibu)
+
+**Agoura Hills** has a unique vibe: it’s suburban and calm, with a strong sense of community and a family-friendly feel—yet it’s still connected to the broader LA scene. Being close to the Santa Monica Mountains and **near Malibu** means weekends often include hikes, beach time, kids’ sports, and lots of sun. That’s great for lifestyle, but it can also mean you’re more likely to get behind on hydration.
+
+Mobile care fits the local rhythm. Instead of adding another drive across town, you can schedule a visit around school pickup, a work-from-home day, or a quiet evening when you’d rather be resting.
+
+People often consider an IV session when they’re dealing with:
+
+- Headaches or low energy that can come with dehydration
+- A busy stretch of work, commuting, and family commitments
+- Travel fatigue and jet lag
+- Seasonal immune challenges (especially when everyone around you is sniffling)
+- Recovery after outdoor activity, long events, or intense workouts
+
+## Services We Offer: Immune Boost & Hydration (and More)
+
+Every visit includes a quick review of your health history and goals so we can recommend a service that makes sense for you that day. Here are some of our most requested options:
+
+### Immune Boost IV
+When you want extra support during a demanding season, immune-focused IVs commonly feature ingredients such as Vitamin C, zinc, and B vitamins. These nutrients are often used to support normal immune function and help you feel more resilient when your schedule is stacked.
+
+### Hydration + Electrolytes
+If you’ve been sweating, traveling, under the weather, or simply not drinking enough water, hydration support can help restore fluid balance. Electrolytes play an important role in how your body uses water, and a hydration-forward IV is designed to help you rehydrate efficiently.
+
+### Energy & Wellness Support
+Many clients request a blend that emphasizes hydration plus B-complex vitamins to support energy and overall wellness. It’s a common choice when you feel “off,” foggy, or sluggish.
+
+### Recovery Support
+Recovery blends are popular after strenuous activity, long days on your feet, or tough weeks where sleep hasn’t been ideal. These sessions typically focus on rehydration plus supportive vitamins and antioxidants.
+
+**What the appointment feels like:** After a brief assessment, you’ll get comfortable (couch, bed, desk chair—your choice). Most infusions take about 30–60 minutes. Many people use that time to rest, read, or catch up on email.
+
+### What to Expect (Screening, Comfort, and Safety)
+
+Your clinician’s first job is to make sure IV therapy is appropriate for you. Before starting, they’ll review important details like current symptoms, medications, allergies, and any relevant health conditions. If something doesn’t look right, the clinician can recommend a different approach or advise you to follow up with your primary care provider.
+
+During your visit, you can generally expect:
+
+- A quick check of basic vitals and a short health questionnaire
+- Clear guidance on what’s in your drip and what it’s intended to support
+- A calm, clean setup that’s designed for comfort in your own space
+- Post-session tips on hydration, rest, and how to maintain results
+
+If you’re deciding whether hydration support makes sense, common dehydration signals include persistent thirst, dry mouth, headaches, dizziness, and low energy. (Of course, if you’re experiencing severe symptoms, seek urgent medical care.)
+
+## How to Book
+
+Booking mobile IV therapy in **Agoura Hills** is straightforward:
+
+1. Visit our [contact page](/contact) to request an appointment
+2. Tell us your preferred time window and your general goals (hydration, immune support, recovery)
+3. Complete a quick intake so we can confirm the best option for you
+4. Your licensed clinician arrives with the necessary supplies
+5. Relax during your session and get back to your day feeling more recharged
+
+Same-day availability varies, but early requests are more likely to fit into the schedule.
+
+## Ready to Get Back to Feeling Like Yourself?
+
+If you’re in **Agoura Hills** and want a convenient way to support hydration and immunity, we’re here to help. Mobile IV therapy is designed to meet you where you are—literally—so you can prioritize wellness without extra stress.
+
+- Request your appointment here: [/contact](/contact)
+- For more guidance on hydration, immune support, and LA-area wellness, visit our [/blog](/blog)
+
+Immunity IV LA proudly serves **Agoura Hills** with professional, convenient mobile IV therapy—immune boost and hydration delivered on your schedule.`,
+    publishDate: "2026-02-27",
+    author: "Immunity IV LA",
+    tags: ["Agoura Hills", "IV Therapy", "Mobile IV", "Hydration", "Immune Boost", "Valley"],
+    image: "/images/immune-boost-iv.jpg"
   }
 ];
 
