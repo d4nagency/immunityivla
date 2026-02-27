@@ -1,9 +1,134 @@
+"use client";
+
 import Link from "next/link";
 import { SiteShell } from "./components/SiteShell";
 
 export default function Home() {
   return (
     <SiteShell>
+      {/* Organization Schema */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "MedicalBusiness",
+            name: "Immunity IV LA",
+            description: "Mobile IV therapy and immune boost treatments delivered to your home or hotel in Los Angeles.",
+            url: "https://immunityivla.com",
+            telephone: "+1-949-704-3678",
+            email: "hello@immunityivla.com",
+            areaServed: {
+              "@type": "City",
+              name: "Los Angeles",
+              containedInPlace: {
+                "@type": "State",
+                name: "California",
+              },
+            },
+            serviceType: ["IV Therapy", "Mobile Medical Services", "Immune Support", "Hydration Therapy"],
+            medicalSpecialty: "Integrative Medicine",
+            availableChannel: {
+              "@type": "ServiceChannel",
+              serviceType: "Mobile IV Therapy",
+              serviceUrl: "https://immunityivla.com/contact",
+            },
+            priceRange: "$$",
+            paymentAccepted: ["Cash", "Credit Card", "Debit Card"],
+            currenciesAccepted: "USD",
+            openingHoursSpecification: [
+              {
+                "@type": "OpeningHoursSpecification",
+                dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+                opens: "08:00",
+                closes: "20:00",
+              },
+            ],
+            hasOfferCatalog: {
+              "@type": "OfferCatalog",
+              name: "IV Therapy Services",
+              itemListElement: [
+                {
+                  "@type": "Offer",
+                  itemOffered: {
+                    "@type": "Service",
+                    name: "Immune Boost IV",
+                    description: "High-dose Vitamin C, zinc, and antioxidants",
+                  },
+                },
+                {
+                  "@type": "Offer",
+                  itemOffered: {
+                    "@type": "Service",
+                    name: "Hydration IV",
+                    description: "Electrolyte-rich fluids for rapid rehydration",
+                  },
+                },
+                {
+                  "@type": "Offer",
+                  itemOffered: {
+                    "@type": "Service",
+                    name: "Recovery IV",
+                    description: "B-vitamins and nutrients for recovery",
+                  },
+                },
+              ],
+            },
+            sameAs: [
+              // Add social media profiles when available
+              // "https://www.instagram.com/immunityivla",
+              // "https://www.facebook.com/immunityivla",
+              // "https://www.yelp.com/biz/immunity-iv-la",
+            ],
+          }),
+        }}
+      />
+
+      {/* FAQ Schema */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            mainEntity: [
+              {
+                "@type": "Question",
+                name: "Do you come to hotels?",
+                acceptedAnswer: {
+                  "@type": "Answer",
+                  text: "Yes—many clients book mobile IV to their hotel in Los Angeles. We serve all major hotels throughout the LA area.",
+                },
+              },
+              {
+                "@type": "Question",
+                name: "How do I book an appointment?",
+                acceptedAnswer: {
+                  "@type": "Answer",
+                  text: "Use our contact form or call/text (949) 704-3678. We'll confirm availability and next steps within 30 minutes during business hours.",
+                },
+              },
+              {
+                "@type": "Question",
+                name: "What areas do you serve?",
+                acceptedAnswer: {
+                  "@type": "Answer",
+                  text: "We serve all of Los Angeles including West Hollywood, Santa Monica, Beverly Hills, Downtown LA, Venice, Marina del Rey, and surrounding areas.",
+                },
+              },
+              {
+                "@type": "Question",
+                name: "Are your clinicians licensed?",
+                acceptedAnswer: {
+                  "@type": "Answer",
+                  text: "Yes, all our IV therapy clinicians are licensed medical professionals with extensive experience in IV administration.",
+                },
+              },
+            ],
+          }),
+        }}
+      />
+
       {/* Hero Section */}
       <section className="relative overflow-hidden min-h-[90vh] flex items-center">
         {/* Animated background */}
@@ -21,27 +146,27 @@ export default function Home() {
         <div className="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-24 lg:py-32">
           <div className="text-center max-w-4xl mx-auto">
             {/* Badge with shimmer */}
-            <div className="inline-flex items-center gap-2 rounded-full bg-emerald-500/10 px-4 py-2 ring-1 ring-emerald-500/20 mb-8 animate-fade-in">
+            <div className="inline-flex items-center gap-2 rounded-full bg-emerald-500/10 px-4 py-2 ring-1 ring-emerald-500/20 mb-8">
               <span className="flex h-2 w-2 rounded-full bg-emerald-400 animate-pulse" />
               <span className="text-sm font-medium text-emerald-400">Same-day appointments available</span>
             </div>
 
             {/* Headline with gradient animation */}
-            <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold tracking-tight text-white animate-slide-up">
+            <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold tracking-tight text-white">
               Mobile IV Therapy{" "}
-              <span className="bg-gradient-to-r from-emerald-400 via-cyan-400 to-emerald-400 bg-clip-text text-transparent animate-gradient">
+              <span className="bg-gradient-to-r from-emerald-400 via-cyan-400 to-emerald-400 bg-clip-text text-transparent" style={{backgroundSize: '200% 200%', animation: 'gradient 5s ease infinite'}}>
                 Los Angeles
               </span>
             </h1>
 
             {/* Subheadline */}
-            <p className="mt-6 text-xl text-slate-400 max-w-2xl mx-auto animate-slide-up" style={{animationDelay: '0.1s'}}>
+            <p className="mt-6 text-xl text-slate-400 max-w-2xl mx-auto">
               Immune-boosting IV hydration delivered to your home, hotel, or office. 
               Licensed clinicians serving all of LA.
             </p>
 
             {/* CTA Buttons with hover effects */}
-            <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center animate-slide-up" style={{animationDelay: '0.2s'}}>
+            <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center">
               <Link
                 href="/contact"
                 className="group inline-flex items-center justify-center rounded-full bg-gradient-to-r from-emerald-500 to-cyan-500 px-8 py-4 text-base font-semibold text-white shadow-lg shadow-emerald-500/25 hover:shadow-emerald-500/50 hover:scale-105 hover:-translate-y-1 transition-all duration-300"
@@ -63,7 +188,7 @@ export default function Home() {
             </div>
 
             {/* Trust indicators with stagger */}
-            <div className="mt-12 flex flex-wrap justify-center gap-8 text-sm text-slate-500 animate-slide-up" style={{animationDelay: '0.3s'}}>
+            <div className="mt-12 flex flex-wrap justify-center gap-8 text-sm text-slate-500">
               <div className="flex items-center gap-2 hover:text-emerald-400 transition-colors">
                 <svg className="h-5 w-5 text-emerald-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
@@ -216,39 +341,6 @@ export default function Home() {
           </div>
         </div>
       </section>
-
-      {/* Add CSS animations */}
-      <style jsx global>{`
-        @keyframes gradient {
-          0%, 100% { background-position: 0% 50%; }
-          50% { background-position: 100% 50%; }
-        }
-        .animate-gradient {
-          background-size: 200% 200%;
-          animation: gradient 5s ease infinite;
-        }
-        @keyframes slide-up {
-          from {
-            opacity: 0;
-            transform: translateY(20px);
-          }
-          to {
-            opacity: 1;
-            transform: translateY(0);
-          }
-        }
-        .animate-slide-up {
-          opacity: 0;
-          animation: slide-up 0.6s ease forwards;
-        }
-        .animate-fade-in {
-          animation: fade-in 0.5s ease forwards;
-        }
-        @keyframes fade-in {
-          from { opacity: 0; }
-          to { opacity: 1; }
-        }
-      `}</style>
     </SiteShell>
   );
 }
