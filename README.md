@@ -39,3 +39,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 \nNote: Credential flow managed by git-credential-manager-core; push uses a token stored securely.
 
 Note: Pushing directly to main branch.
+
+Update: Workflow confirmed - direct pushes to main enabled.
