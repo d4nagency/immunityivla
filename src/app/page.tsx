@@ -13,6 +13,15 @@ export default function Home() {
             Feeling run down? We bring immune-support IV hydration to your home
             or hotel in Los Angeles.
           </p>
+          <div className="mt-4 inline-flex items-center gap-2 rounded-full bg-emerald-50 px-4 py-2 text-emerald-700 border border-emerald-200">
+            <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+              <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z" />
+            </svg>
+            <a href="tel:949-704-3678" className="font-semibold hover:underline">
+              (949) 704-3678
+            </a>
+            <span className="text-sm">— Call or text now</span>
+          </div>
           <div className="mt-6 flex flex-col gap-3 sm:flex-row">
             <Link
               href="/contact"
@@ -31,6 +40,7 @@ export default function Home() {
             <li>• Same-day appointments (when available)</li>
             <li>• Licensed clinicians</li>
             <li>• Delivered to you in Los Angeles</li>
+            <li>• Text or call <a href="tel:949-704-3678" className="text-emerald-600 font-medium hover:underline">(949) 704-3678</a></li>
           </ul>
         </div>
 

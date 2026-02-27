@@ -185,8 +185,14 @@ export default function ContactPage() {
         <div className="mt-12 pt-8 border-t border-zinc-200">
           <h3 className="text-sm font-semibold text-zinc-900">Other ways to reach us</h3>
           <div className="mt-4 space-y-3 text-sm text-zinc-600">
+            <div className="flex items-center gap-2">
+              <span className="font-medium text-zinc-900">Call or text:</span>
+              <a href="tel:949-704-3678" className="text-emerald-600 font-semibold hover:underline text-lg">
+                (949) 704-3678
+              </a>
+            </div>
             <p>
-              <span className="font-medium text-zinc-900">Response time:</span> Within 24 hours
+              <span className="font-medium text-zinc-900">Response time:</span> Within 30 minutes for calls/texts
             </p>
             <p>
               <span className="font-medium text-zinc-900">Service hours:</span> Mon–Sun, 8:00 AM – 8:00 PM
