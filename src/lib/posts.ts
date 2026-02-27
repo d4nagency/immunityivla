@@ -773,6 +773,88 @@ Read more wellness tips and Los Angeles area service updates on our [blog](/blog
     author: "Immunity IV LA",
     tags: ["Pacific Palisades", "IV Therapy", "Mobile IV", "Hydration", "Immune Boost", "Westside", "Luxury Wellness"],
     image: "/images/immune-boost-iv.jpg"
+  },
+  {
+    slug: "mobile-iv-therapy-altadena",
+    title: "Mobile IV Therapy Altadena — Immune Boost & Hydration",
+    description: "Mobile IV therapy in Altadena delivered to your home. Immune support and hydration services near the San Gabriel Mountains by licensed clinicians.",
+    content: `## Mobile IV Therapy in Altadena, California
+
+Altadena sits at the foot of the San Gabriel Mountains, offering a unique blend of small-town charm and stunning natural beauty. From the historic Christmas Tree Lane to the trails of Eaton Canyon, this unincorporated Los Angeles County community attracts outdoor enthusiasts, families, and anyone seeking a quieter life with mountain views. When you need immune support or fast hydration, mobile IV therapy brings wellness directly to your Altadena home—no need to drive down to Pasadena or into LA.
+
+## Why Altadena Residents Choose Mobile IV
+
+**Mountain Living, Modern Convenience:** Altadena's location against the San Gabriel Mountains means you're surrounded by hiking trails, nature preserves, and fresh air—but accessing traditional medical services often requires a trip down Lake Avenue or the 210 freeway. Mobile IV eliminates that drive when you're already feeling under the weather.
+
+**Active Outdoor Lifestyle:** Altadena residents love their outdoor recreation. Whether you're hiking the Eaton Canyon Falls trail, mountain biking in the foothills, or gardening in your yard with those spectacular mountain views, physical activity in our dry Southern California climate can lead to dehydration. IV therapy replenishes fluids and electrolytes efficiently.
+
+**Community-Focused Care:** Altadena has a tight-knit, community-oriented feel. Mobile IV services fit this personal approach—one-on-one care in your own home from licensed clinicians who take time to understand your needs.
+
+## IV Services Available in Altadena
+
+Our licensed clinicians serve all Altadena neighborhoods including:
+
+- Christmas Tree Lane area
+- Altadena Triangle
+- Foothill Corridor
+- Lake Avenue vicinity
+- The Meadows
+- East Altadena
+
+**Popular IV treatments in Altadena:**
+
+1. **Immune Boost IV** – High-dose Vitamin C, zinc, and antioxidants for immune support during hiking season and beyond
+2. **Hydration Therapy** – Essential fluids and electrolytes for recovery after outdoor activities in the mountain heat
+3. **Energy & Wellness Blend** – B-vitamins and hydration for busy parents and professionals
+4. **Recovery Support** – Perfect after long hikes, home improvement projects, or strenuous yard work
+
+## Local Altadena Context
+
+Living in Altadena means enjoying unique local treasures:
+
+- **Eaton Canyon Natural Area** – One of LA County's most popular hiking destinations, with trails ranging from easy walks to challenging climbs
+- **Christmas Tree Lane** – The historic deodar cedar-lined street, a beloved local landmark since 1885
+- **Altadena Golf Course** – A scenic public course nestled against the mountains
+- **Jet Propulsion Laboratory (JPL) nearby** – Many Altadena residents work at or near this world-renowned NASA facility
+- **Sam Merrill Trail** – The challenging trail to Echo Mountain, offering panoramic views of LA
+- **Mount Lowe Railway history** – Altadena's rich history as the gateway to the historic railway
+
+**Altadena-specific benefits:**
+- Quick recovery after hiking Eaton Canyon or the Sam Merrill Trail
+- Hydration support after working in gardens or yards in the foothill heat
+- Immune support during seasonal changes in the mountain microclimate
+- Convenient care for families without the drive to Pasadena medical facilities
+- Wellness support for JPL professionals and remote workers in the community
+
+## How to Book Your IV in Altadena
+
+Scheduling mobile IV therapy in Altadena is simple:
+
+1. **Choose your treatment** – Browse immune boost, hydration, and wellness options
+2. **Schedule online** – Select your preferred date and time that works with your schedule
+3. **We come to you** – Licensed clinician arrives at your Altadena home
+4. **Relax and rejuvenate** – 30-60 minute infusion in the comfort of your own space
+
+Same-day appointments are often available when you book by early afternoon. We know the local streets—from Mariposa to Altadena Drive—and bring professional care to your doorstep.
+
+## Areas We Serve in Altadena
+
+From the foothills to the flatlands, we cover all of Altadena:
+- Homes near Christmas Tree Lane
+- Foothill corridor residences
+- Lake Avenue area homes
+- East Altadena neighborhoods
+- The Meadows community
+
+## Book Your Altadena IV Session
+
+Ready to boost your immunity, rehydrate after a hike in the San Gabriels, or support your wellness routine? [Schedule your mobile IV therapy in Altadena](/contact) today. Same-day appointments available throughout Altadena.
+
+Read more wellness tips and Los Angeles area service updates on our [blog](/blog).`,
+    publishDate: "2026-02-27",
+    author: "Immunity IV LA",
+    tags: ["Altadena", "IV Therapy", "Mobile IV", "Hydration", "Immune Boost", "San Gabriel Mountains", "Pasadena"],
+    image: "/images/immune-boost-iv.jpg"
   }
 ];
 
