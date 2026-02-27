@@ -1,0 +1,47 @@
+[
+  {
+    "date": "2026-02-27T17:46:34.086Z",
+    "site": "Google Business Profile",
+    "tier": "TIER 1",
+    "status": "pending",
+    "notes": "Requires Google Account - not created",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-02-27T17:46:36.602Z",
+    "site": "Yelp for Business",
+    "tier": "TIER 1",
+    "status": "pending",
+    "notes": "403 blocked - requires business account",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-02-27T17:46:40.003Z",
+    "site": "Bing Places",
+    "tier": "TIER 1",
+    "status": "pending",
+    "notes": "Requires Microsoft/Google/Facebook account",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-02-27T17:46:43.181Z",
+    "site": "Apple Business Connect",
+    "tier": "TIER 1",
+    "status": "pending",
+    "notes": "Requires Apple ID",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-02-27T17:46:46.070Z",
+    "site": "Facebook Business",
+    "tier": "TIER 1",
+    "status": "pending",
+    "notes": "Requires Facebook/Instagram account",
+    "url": null,
+    "listingUrl": null
+  }
+]
