@@ -688,6 +688,91 @@ Read more wellness tips on our [blog](/blog).`,
     author: "Immunity IV LA",
     tags: ["Marina del Rey", "IV Therapy", "Mobile IV", "Hydration", "Immune Boost", "Westside", "Waterfront"],
     image: "/images/immune-boost-iv.jpg"
+  },
+  {
+    slug: "mobile-iv-therapy-pacific-palisades",
+    title: "Mobile IV Therapy Pacific Palisades — Immune Boost & Hydration",
+    description: "Premium mobile IV therapy in Pacific Palisades. Discreet immune support and hydration delivered to hillside homes and estates throughout 90272.",
+    content: `## Mobile IV Therapy in Pacific Palisades, California
+
+Pacific Palisades is one of Los Angeles' most prestigious coastal communities—nestled between the Santa Monica Mountains and the Pacific Ocean, this secluded enclave offers stunning ocean views, winding canyon roads, and a relaxed, village-like atmosphere. Whether you're enjoying the Riviera Country Club, hiking Temescal Canyon, or relaxing in your hillside estate, mobile IV therapy brings immune support and premium hydration directly to your Palisades home.
+
+## Why Pacific Palisades Residents Choose Mobile IV
+
+**Privacy and Discretion:** Pacific Palisades residents value their privacy. Mobile IV services offer discreet wellness support without visiting busy clinics or waiting rooms. Licensed clinicians arrive in unmarked vehicles and provide professional care in the comfort of your own residence.
+
+**Hillside Living Logistics:** The Palisades' unique topography—with homes perched in the hills and canyons—can make traveling to appointments time-consuming. Mobile IV eliminates the need to navigate Sunset Boulevard or canyon roads when you're not feeling your best.
+
+**Active, Health-Conscious Community:** From morning hikes in Will Rogers State Park to tennis at the Riviera, Palisades residents lead active lifestyles. IV therapy supports recovery, hydration, and immune function for those who prioritize wellness and outdoor activity.
+
+## IV Services Available in Pacific Palisades
+
+Our licensed clinicians serve all Pacific Palisades neighborhoods including:
+
+- The Riviera (Riviera Country Club area)
+- The Huntington
+- Palisades Highlands
+- Castellammare
+- Pacific Palisades Village area
+- Rustic Canyon
+- Marquez Knolls
+- Alphabet Streets
+
+**Popular IV treatments in Pacific Palisades:**
+
+1. **Immune Boost IV** – High-dose Vitamin C, zinc, and antioxidants for robust immune support during travel and busy seasons
+2. **Premium Hydration Therapy** – Essential fluids and electrolytes for recovery after canyon hikes or beach activities
+3. **Executive Wellness Blend** – B-vitamins, hydration, and nutrients for busy professionals balancing work and family
+4. **Recovery & Revitalization** – Antioxidant support and hydration for post-travel or post-event recovery
+
+## Local Pacific Palisades Context
+
+Living in Pacific Palisades means enjoying some of Southern California's most coveted natural amenities:
+
+- **Hiking Temescal Canyon** – The popular trail offers ocean views but can be strenuous and dehydrating, especially during warmer months
+- **Will Rogers State Park** – Historic ranch grounds and polo field with hiking trails that draw active residents
+- **Palisades Village** – The upscale shopping and dining destination where locals gather
+- **Sunset Boulevard corridor** – The main artery connecting the community, often trafficked
+- **Proximity to Malibu** – Easy access to Zuma Beach and Malibu's coastline for weekend outings
+- **Santa Monica Mountains** – Backyard access to extensive trail systems and outdoor recreation
+
+**Pacific Palisades-specific benefits:**
+- Convenient recovery after hiking the Santa Monica Mountains
+- Immune support before and after travel (LAX is nearby for this well-traveled community)
+- Hydration therapy after beach days at Will Rogers or nearby Malibu beaches
+- Wellness support for families during school seasons and busy family schedules
+- Discreet service for high-profile residents seeking privacy
+
+## How to Book Your IV in Pacific Palisades
+
+Scheduling mobile IV therapy in Pacific Palisades is simple and designed for your convenience:
+
+1. **Choose your treatment** – Browse immune boost, hydration, and wellness options
+2. **Schedule online** – Select your preferred date and time that works with your Palisades lifestyle
+3. **We come to you** – Licensed clinician arrives at your hillside home, estate, or condo
+4. **Relax and rejuvenate** – 30-60 minute infusion in the comfort of your own space
+
+Same-day appointments are often available when you book by early afternoon. We understand the unique geography of the Palisades and navigate the canyon roads so you don't have to.
+
+## Areas We Serve in Pacific Palisades
+
+From the Highlands to the coast, we cover all Pacific Palisades neighborhoods:
+- Estates in The Riviera and The Huntington
+- Canyon homes in Rustic Canyon and Sullivan Canyon
+- Highlands residences with panoramic views
+- Castellammare ocean-view homes
+- Village area condos and townhomes
+- Marquez Knolls family homes
+
+## Book Your Pacific Palisades IV Session
+
+Ready to boost your immunity, rehydrate after a canyon hike, or support your wellness routine? [Schedule your mobile IV therapy in Pacific Palisades](/contact) today. Same-day appointments available throughout 90272.
+
+Read more wellness tips and Los Angeles area service updates on our [blog](/blog).`,
+    publishDate: "2026-02-27",
+    author: "Immunity IV LA",
+    tags: ["Pacific Palisades", "IV Therapy", "Mobile IV", "Hydration", "Immune Boost", "Westside", "Luxury Wellness"],
+    image: "/images/immune-boost-iv.jpg"
   }
 ];
 
