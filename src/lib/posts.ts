@@ -455,6 +455,79 @@ Prepare for flu season with immune-boosting IV therapy. [Schedule your session](
     author: "Immunity IV LA",
     tags: ["Flu Season", "Los Angeles", "Immune Support", "Prevention"],
     image: "/images/la-flu-season.jpg"
+  },
+  {
+    slug: "iv-therapy-venice-beach",
+    title: "IV Therapy Venice Beach — Mobile Immune Boost & Hydration",
+    description: "Mobile IV therapy delivered to Venice Beach homes, hotels, and rentals. Immune support and hydration for locals, surfers, and visitors near the boardwalk.",
+    content: `## Mobile IV Therapy in Venice, California
+
+Venice Beach is iconic—world-famous boardwalk, muscle beach, the skate park, and a culture all its own. Whether you're a local catching waves at dawn, an artist living in a Venice canal cottage, or visiting from out of town, our mobile IV services bring immune support and hydration directly to you.
+
+## Why Venice Residents Choose Mobile IV
+
+**Active Lifestyle Demands:** Venice is home to surfers, skaters, yogis, and fitness enthusiasts. Intense physical activity depletes nutrients and hydration fast. IV therapy helps you recover quickly and maintain peak performance.
+
+**Tourist-Friendly Service:** Staying near the Venice Boardwalk or Abbott Kinney? We deliver to hotels, Airbnbs, and vacation rentals throughout Venice—no need to navigate LA traffic when you're not feeling your best.
+
+**Wellness Culture:** Venice has always been ahead of the wellness curve. IV therapy fits naturally into a health-conscious lifestyle.
+
+## IV Services Available in Venice
+
+Our licensed clinicians serve all Venice neighborhoods including:
+
+- Venice Beach and Boardwalk area
+- Venice Canals
+- Abbott Kinney Boulevard
+- Oakwood
+- Milwood
+- Silver Strand
+
+**Popular treatments in Venice:**
+
+1. **Immune Boost IV** – High-dose Vitamin C, zinc, and antioxidants for immune support
+2. **Hydration Therapy** – Essential fluids and electrolytes for recovery
+3. **Athletic Recovery** – Perfect after surfing, skating, or beach volleyball
+4. **Jet Lag Relief** – For visitors adjusting to West Coast time
+
+## Local Landmarks & Context
+
+Whether you're recovering from a morning surf session at Venice Breakwater, exploring the murals on Abbott Kinney, or heading to the Venice Skatepark, staying hydrated and healthy is essential. The Southern California sun and salt air can be dehydrating—IV therapy restores what your body loses.
+
+**Venice-specific benefits:**
+- Quick recovery between beach activities
+- Immune support during busy festival seasons
+- Hydration after long bike rides on the beach path
+- Wellness support for the creative, active Venice lifestyle
+
+## How to Book Your IV in Venice
+
+Getting mobile IV therapy in Venice is simple:
+
+1. **Choose your treatment** – Browse our immune boost and hydration options
+2. **Schedule online** – Select your preferred date and time
+3. **We come to you** – Licensed clinician arrives at your Venice location
+4. **Relax and recharge** – 30-60 minute infusion while you rest
+
+Same-day appointments are often available when you book by early afternoon.
+
+## Areas We Serve in Venice
+
+From the canals to the beachfront, we cover all of Venice:
+- Homes near Venice Beach
+- Abbott Kinney area residences
+- Hotels and vacation rentals
+- Apartments throughout the 90291 zip code
+
+## Book Your Venice Beach IV Session
+
+Ready to boost your immunity or recover from an active Venice day? [Schedule your mobile IV therapy in Venice](/contact) today. Same-day appointments available.
+
+Read more on our [blog](/blog) for wellness tips and LA area service updates.`,
+    publishDate: "2025-02-27",
+    author: "Immunity IV LA",
+    tags: ["Venice", "Venice Beach", "IV Therapy", "Mobile IV", "Immune Boost", "Westside"],
+    image: "/images/venice-beach-iv.jpg"
   }
 ];
 
