@@ -608,6 +608,86 @@ Immunity IV LA proudly serves **Agoura Hills** with professional, convenient mob
     author: "Immunity IV LA",
     tags: ["Agoura Hills", "IV Therapy", "Mobile IV", "Hydration", "Immune Boost", "Valley"],
     image: "/images/immune-boost-iv.jpg"
+  },
+  {
+    slug: "mobile-iv-therapy-marina-del-rey",
+    title: "Mobile IV Therapy Marina del Rey — Immune Boost & Hydration",
+    description: "Professional mobile IV therapy in Marina del Rey delivered to waterfront homes, hotels, and boats. Same-day immune support and hydration by licensed clinicians.",
+    content: `## Mobile IV Therapy in Marina del Rey, California
+
+Marina del Rey is Los Angeles County's premier waterfront community—yacht-filled harbors, waterfront dining, and a relaxed coastal lifestyle that's distinctly different from the bustle of downtown. Whether you live aboard a boat in the marina, reside in one of the waterfront condos along Admiralty Way, or are staying at the Ritz-Carlton for a coastal getaway, mobile IV therapy brings immune support and hydration directly to you.
+
+## Why Marina del Rey Residents Choose Mobile IV
+
+**Waterfront Lifestyle Convenience:** Marina del Rey residents enjoy a unique, laid-back luxury lifestyle—but that doesn't mean you have time to sit in traffic to visit a clinic. Mobile IV services come to your waterfront home, hotel suite, or even your docked vessel.
+
+**Active Coastal Living:** From paddleboarding in the harbor to cycling the Marvin Braude Bike Trail, Marina del Rey locals stay active. Intense sun exposure and physical activity can lead to rapid dehydration. IV therapy replenishes fluids and electrolytes efficiently.
+
+**Traveler-Friendly:** Visiting Marina del Rey for a weekend escape or business trip? Skip the clinic visit and recover from travel fatigue in the comfort of your hotel room with a jet lag recovery IV.
+
+## IV Services Available in Marina del Rey
+
+Our licensed clinicians serve all Marina del Rey neighborhoods and areas including:
+
+- The Marina Peninsula
+- Silver Strand
+- Admiralty Way corridor
+- Via Marina area
+- Waterside condos and residences
+- The Ritz-Carlton and nearby hotels
+
+**Popular IV treatments in Marina del Rey:**
+
+1. **Hydration Therapy** – Combat dehydration from sun exposure and coastal activities
+2. **Immune Boost IV** – Vitamin C, zinc, and antioxidants for immune support
+3. **Jet Lag Recovery** – Perfect for travelers staying at waterfront hotels
+4. **Energy & Wellness** – B-vitamins and hydration for busy professionals
+
+## Local Marina del Rey Context
+
+Living or staying in Marina del Rey means enjoying some of LA's best coastal amenities. Whether you're:
+- Sailing out of LA Harbor
+- Dining at waterfront restaurants like Tony P's or The Cheesecake Factory on the water
+- Walking the Burton Chace Park paths
+- Working remotely with harbor views
+
+Staying hydrated and healthy enhances every experience. The marine layer mornings and sunny afternoons create a microclimate that can catch visitors and locals alike off guard when it comes to hydration needs.
+
+**Marina del Rey-specific benefits:**
+- Quick recovery after harbor activities and watersports
+- Convenient service for live-aboard residents who avoid land-based clinics
+- Hotel room service for visitors at the Ritz-Carlton, Jamaica Bay Inn, or nearby properties
+- Wellness support for the boating and yachting community
+
+## How to Book Your IV in Marina del Rey
+
+Scheduling mobile IV therapy in Marina del Rey is simple:
+
+1. **Select your treatment** – Choose from immune boost, hydration, or recovery options
+2. **Schedule online** – Pick a time that works with your harbor lifestyle
+3. **We come to you** – Licensed clinician arrives at your Marina del Rey location
+4. **Relax by the water** – 30-60 minute infusion while you enjoy the view
+
+Same-day appointments are often available when booked by early afternoon.
+
+## Areas We Serve in Marina del Rey
+
+From the marina channels to the beachfront, we cover all of Marina del Rey:
+- Waterfront condos and apartments
+- Marina live-aboard vessels (dockside service)
+- Hotels along Admiralty Way and Via Marina
+- The Marina Peninsula homes
+- Silver Strand residences
+
+## Book Your Marina del Rey IV Session
+
+Ready to boost your immunity or rehydrate after coastal activities? [Schedule your mobile IV therapy in Marina del Rey](/contact) today. Same-day appointments available.
+
+Read more wellness tips on our [blog](/blog).`,
+    publishDate: "2026-02-27",
+    author: "Immunity IV LA",
+    tags: ["Marina del Rey", "IV Therapy", "Mobile IV", "Hydration", "Immune Boost", "Westside", "Waterfront"],
+    image: "/images/immune-boost-iv.jpg"
   }
 ];
 
