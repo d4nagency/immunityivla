@@ -123,31 +123,97 @@ export default function Home() {
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl sm:text-4xl font-bold text-white">Our Services</h2>
-            <p className="mt-4 text-lg text-slate-400">Immune support and hydration tailored to your needs</p>
+            <p className="mt-4 text-lg text-slate-400">Choose the IV therapy that's right for you</p>
           </div>
 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
             {[
-              {
-                title: "Immune Boost IV",
-                description: "High-dose Vitamin C, zinc, and antioxidants to support your immune system.",
-                icon: "🛡️"
-              },
-              {
-                title: "Hydration IV",
-                description: "Rapid rehydration with electrolytes. Perfect for recovery and wellness.",
-                icon: "💧"
-              },
-              {
-                title: "Recovery IV",
-                description: "B-vitamins and nutrients to help you bounce back from travel or illness.",
-                icon: "⚡"
-              },
-              {
-                title: "Beauty & Glow",
-                description: "Glutathione and biotin for skin health and cellular rejuvenation.",
-                icon: "✨"
-              },
-              {
-                title: "Athlete Recovery",
-                description: "Amino acids
+              { title: "Immune Boost", desc: "Vitamin C, zinc & antioxidants for immune support", icon: "🛡️" },
+              { title: "Hydration", desc: "Electrolyte-rich fluids for rapid rehydration", icon: "💧" },
+              { title: "Recovery", desc: "B-vitamins & nutrients to bounce back fast", icon: "⚡" },
+              { title: "Beauty Glow", desc: "Glutathione & biotin for skin health", icon: "✨" },
+              { title: "Performance", desc: "Amino acids for muscle recovery & energy", icon: "💪" },
+              { title: "Hangover Relief", desc: "Fast relief from dehydration & toxins", icon: "🍹" }
+            ].map((service, i) => (
+              <div key={i} className="relative group">
+                <div className="absolute -inset-px bg-gradient-to-r from-emerald-500/20 to-cyan-500/20 rounded-2xl opacity-0 group-hover:opacity-100 transition-opacity" />
+                <div className="relative p-6 rounded-2xl bg-slate-900/50 border border-slate-800/50 h-full">
+                  <span className="text-3xl">{service.icon}</span>
+                  <h3 className="mt-4 text-xl font-semibold text-white">{service.title}</h3>
+                  <p className="mt-2 text-slate-400">{service.desc}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+
+          <div className="mt-12 text-center">
+            <Link
+              href="/immune-boost-iv-los-angeles"
+              className="inline-flex items-center text-emerald-400 hover:text-emerald-300 font-medium"
+            >
+              Learn more about our services
+              <svg className="ml-1 h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
+              </svg>
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* Areas We Serve */}
+      <section className="py-24 bg-slate-900/50">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-16">
+            <h2 className="text-3xl sm:text-4xl font-bold text-white">Areas We Serve</h2>
+            <p className="mt-4 text-lg text-slate-400">Mobile IV therapy throughout Los Angeles</p>
+          </div>
+
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+            {["Beverly Hills", "Santa Monica", "West Hollywood", "Downtown LA", "Venice", "Marina del Rey", "Hollywood", "Silver Lake", "Echo Park", "Los Feliz", "Koreatown", "Mid-Wilshire", "Century City", "Brentwood", "Pacific Palisades", "Malibu"].map((area) => (
+              <Link
+                key={area}
+                href={`/blog/${area.toLowerCase().replace(/\s+/g, "-")}-mobile-iv-therapy`}
+                className="p-4 rounded-xl bg-slate-800/50 border border-slate-700/50 text-center text-slate-300 hover:text-emerald-400 hover:border-emerald-500/30 transition-colors"
+              >
+                {area}
+              </Link>
+            ))}
+          </div>
+
+          <div className="mt-8 text-center">
+            <Link
+              href="/blog"
+              className="text-emerald-400 hover:text-emerald-300 font-medium"
+            >
+              View all 100+ areas we serve →
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* CTA */}
+      <section className="py-24">
+        <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 text-center">
+          <h2 className="text-3xl sm:text-4xl font-bold text-white">Ready to Feel Better?</h2>
+          <p className="mt-4 text-lg text-slate-400">
+            Book your mobile IV therapy session today. Same-day appointments available throughout Los Angeles.
+          </p>
+          <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center">
+            <Link
+              href="/contact"
+              className="inline-flex items-center justify-center rounded-full bg-gradient-to-r from-emerald-500 to-cyan-500 px-8 py-4 text-base font-semibold text-white shadow-lg shadow-emerald-500/25 hover:shadow-emerald-500/40 hover:scale-105 transition-all duration-200"
+            >
+              Book Now
+            </Link>
+            <a
+              href="tel:949-704-3678"
+              className="inline-flex items-center justify-center rounded-full bg-slate-800 px-8 py-4 text-base font-semibold text-white ring-1 ring-slate-700 hover:bg-slate-700 transition-all duration-200"
+            >
+              Call (949) 704-3678
+            </a>
+          </div>
+        </div>
+      </section>
+    </SiteShell>
+  );
+}
