@@ -4,99 +4,150 @@ import { SiteShell } from "./components/SiteShell";
 export default function Home() {
   return (
     <SiteShell>
-      <section className="grid gap-10 md:grid-cols-2 md:items-center bg-gradient-to-br from-blue-100 to-purple-200 shadow-xl rounded-xl p-8">
-        <div className="z-10">
-          <h1 className="text-4xl sm:text-5xl font-bold tracking-tight text-gray-900">
-            Mobile Immune Boost IV in Los Angeles
-          </h1>
-          <p className="mt-4 text-lg text-gray-600">
-            Feeling run down? We bring immune-support IV hydration to your home
-            or hotel in Los Angeles.
-          </p>
-          <div className="mt-4 inline-flex items-center gap-2 rounded-full bg-emerald-50 px-4 py-2 text-emerald-700 border border-emerald-200">
-            <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
-              <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z" />
-            </svg>
-            <a href="tel:949-704-3678" className="font-semibold hover:underline">
-              (949) 704-3678
-            </a>
-            <span className="text-sm">— Call or text now</span>
-          </div>
-          <div className="mt-6 flex flex-col gap-3 sm:flex-row">
-            <Link
-              href="/contact"
-              className="inline-flex items-center justify-center rounded-lg bg-gradient-to-r from-blue-600 to-purple-600 px-6 py-3 text-base font-medium text-white shadow-md hover:shadow-lg transition-shadow duration-300 ease-in-out"
-            >
-              Request an appointment
-            </Link>
-            <Link
-              href="/immune-boost-iv-los-angeles"
-              className="inline-flex items-center justify-center rounded-lg border border-blue-300 px-6 py-3 text-base font-medium text-blue-600 shadow-sm hover:shadow-md transition-shadow duration-300 ease-in-out"
-            >
-              Learn about Immune Boost IV
-            </Link>
-          </div>
-          <ul className="mt-6 grid gap-2 text-sm text-gray-700">
-            <li>• Same-day appointments (when available)</li>
-            <li>• Licensed clinicians</li>
-            <li>• Delivered to you in Los Angeles</li>
-            <li>• Text or call <a href="tel:949-704-3678" className="text-emerald-600 font-medium hover:underline">(949) 704-3678</a></li>
-          </ul>
-        </div>
+      {/* Hero Section */}
+      <section className="relative overflow-hidden">
+        {/* Background gradient */}
+        <div className="absolute inset-0 bg-gradient-to-br from-emerald-900/20 via-slate-950 to-cyan-900/20" />
+        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[1000px] h-[600px] bg-emerald-500/10 rounded-full blur-3xl" />
+        
+        <div className="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-24 lg:py-32">
+          <div className="text-center max-w-4xl mx-auto">
+            {/* Badge */}
+            <div className="inline-flex items-center gap-2 rounded-full bg-emerald-500/10 px-4 py-2 ring-1 ring-emerald-500/20 mb-8">
+              <span className="flex h-2 w-2 rounded-full bg-emerald-400 animate-pulse" />
+              <span className="text-sm font-medium text-emerald-400">Same-day appointments available</span>
+            </div>
 
-        {/* Image/Illustration Placeholder - Add a relevant graphic here if available */}
-        <div className="relative hidden md:block">
-          {/* Example: Placeholder for an illustration or image */}
-          <div className="absolute inset-0 bg-blue-400/20 rounded-2xl shadow-lg blur-xl -z-10"></div>
-          <div className="absolute inset-0 bg-purple-400/20 rounded-2xl shadow-xl blur-2xl -z-20"></div>
-          <div className="relative rounded-2xl bg-white p-8 shadow-xl border border-blue-200">
-             <h2 className="text-lg font-semibold text-gray-800">What this site is</h2>
-             <p className="mt-2 text-sm text-gray-700">
-               A focused, SEO-friendly brand site for immune-support IV therapy in LA.
-             </p>
-             <div className="mt-4 grid gap-3 text-sm">
-               <div className="rounded-lg bg-blue-50 p-4 border border-blue-100">
-                 <p className="font-medium text-gray-800">Primary offer</p>
-                 <p className="text-gray-600">Immune Boost IV (mobile)</p>
-               </div>
-               <div className="rounded-lg bg-purple-50 p-4 border border-purple-100">
-                 <p className="font-medium text-gray-800">Next pages to add</p>
-                 <p className="text-gray-600">
-                   Location pages (WeHo, Santa Monica, Beverly Hills, DTLA…)
-                 </p>
-               </div>
-             </div>
+            {/* Headline */}
+            <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold tracking-tight text-white">
+              Mobile IV Therapy{" "}
+              <span className="bg-gradient-to-r from-emerald-400 to-cyan-400 bg-clip-text text-transparent">
+                Los Angeles
+              </span>
+            </h1>
+
+            {/* Subheadline */}
+            <p className="mt-6 text-xl text-slate-400 max-w-2xl mx-auto">
+              Immune-boosting IV hydration delivered to your home, hotel, or office. 
+              Licensed clinicians serving all of LA.
+            </p>
+
+            {/* CTA Buttons */}
+            <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center">
+              <Link
+                href="/contact"
+                className="inline-flex items-center justify-center rounded-full bg-gradient-to-r from-emerald-500 to-cyan-500 px-8 py-4 text-base font-semibold text-white shadow-lg shadow-emerald-500/25 hover:shadow-emerald-500/40 hover:scale-105 transition-all duration-200"
+              >
+                Book Appointment
+                <svg className="ml-2 h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
+                </svg>
+              </Link>
+              <a
+                href="tel:949-704-3678"
+                className="inline-flex items-center justify-center rounded-full bg-slate-800 px-8 py-4 text-base font-semibold text-white ring-1 ring-slate-700 hover:bg-slate-700 transition-all duration-200"
+              >
+                <svg className="mr-2 h-5 w-5 text-emerald-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
+                </svg>
+                (949) 704-3678
+              </a>
+            </div>
+
+            {/* Trust indicators */}
+            <div className="mt-12 flex flex-wrap justify-center gap-8 text-sm text-slate-500">
+              <div className="flex items-center gap-2">
+                <svg className="h-5 w-5 text-emerald-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                </svg>
+                Licensed Clinicians
+              </div>
+              <div className="flex items-center gap-2">
+                <svg className="h-5 w-5 text-emerald-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                </svg>
+                Same-Day Service
+              </div>
+              <div className="flex items-center gap-2">
+                <svg className="h-5 w-5 text-emerald-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                </svg>
+                All of Los Angeles
+              </div>
+            </div>
           </div>
         </div>
       </section>
 
-      <section className="mt-16">
-        <h2 className="text-3xl font-bold tracking-tight text-gray-900 text-center mb-8">Fast FAQs</h2>
-        <div className="mt-6 grid gap-6 md:grid-cols-2 lg:grid-cols-3">
-          <div className="rounded-xl border border-gray-200 bg-white/50 p-6 shadow-lg hover:shadow-2xl transition-shadow duration-300 ease-in-out backdrop-blur-sm">
-            <h3 className="font-semibold text-gray-800">Do you come to hotels?</h3>
-            <p className="mt-2 text-sm text-gray-700">
-              Yes—many clients book mobile IV to their hotel in Los Angeles.
-            </p>
+      {/* How It Works */}
+      <section className="py-24 bg-slate-900/50">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-16">
+            <h2 className="text-3xl sm:text-4xl font-bold text-white">How It Works</h2>
+            <p className="mt-4 text-lg text-slate-400">IV therapy delivered to you in 3 simple steps</p>
           </div>
-          <div className="rounded-xl border border-gray-200 bg-white/50 p-6 shadow-lg hover:shadow-2xl transition-shadow duration-300 ease-in-out backdrop-blur-sm">
-            <h3 className="font-semibold text-gray-800">How do I book?</h3>
-            <p className="mt-2 text-sm text-gray-700">
-              Use the contact form and we’ll confirm availability and next
-              steps.
-            </p>
-          </div>
-          <div className="rounded-xl border border-gray-200 bg-white/50 p-6 shadow-lg hover:shadow-2xl transition-shadow duration-300 ease-in-out backdrop-blur-sm">
-            <h3 className="font-semibold text-gray-800">What are the benefits?</h3>
-            <p className="mt-2 text-sm text-gray-700">
-              Replenish essential nutrients, boost immunity, and rehydrate quickly.
-            </p>
+
+          <div className="grid md:grid-cols-3 gap-8">
+            {[
+              {
+                step: "01",
+                title: "Book Online",
+                description: "Fill out our quick form or text us. Tell us where you are in LA and what you need."
+              },
+              {
+                step: "02",
+                title: "We Come to You",
+                description: "A licensed clinician arrives at your location with everything needed for your IV treatment."
+              },
+              {
+                step: "03",
+                title: "Feel Better",
+                description: "Relax during your 30-60 minute session. Most clients feel results immediately."
+              }
+            ].map((item, i) => (
+              <div key={i} className="relative group">
+                <div className="absolute -inset-px bg-gradient-to-r from-emerald-500/20 to-cyan-500/20 rounded-2xl opacity-0 group-hover:opacity-100 transition-opacity" />
+                <div className="relative p-8 rounded-2xl bg-slate-900/50 border border-slate-800/50">
+                  <span className="text-4xl font-bold text-emerald-500/30">{item.step}</span>
+                  <h3 className="mt-4 text-xl font-semibold text-white">{item.title}</h3>
+                  <p className="mt-2 text-slate-400">{item.description}</p>
+                </div>
+              </div>
+            ))}
           </div>
         </div>
-        <p className="mt-8 text-sm text-gray-600 text-center">
-          Note: availability, eligibility, and ingredients vary by provider and clinical review.
-        </p>
       </section>
-    </SiteShell>
-  );
-}
+
+      {/* Services */}
+      <section className="py-24">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-16">
+            <h2 className="text-3xl sm:text-4xl font-bold text-white">Our Services</h2>
+            <p className="mt-4 text-lg text-slate-400">Immune support and hydration tailored to your needs</p>
+          </div>
+
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {[
+              {
+                title: "Immune Boost IV",
+                description: "High-dose Vitamin C, zinc, and antioxidants to support your immune system.",
+                icon: "🛡️"
+              },
+              {
+                title: "Hydration IV",
+                description: "Rapid rehydration with electrolytes. Perfect for recovery and wellness.",
+                icon: "💧"
+              },
+              {
+                title: "Recovery IV",
+                description: "B-vitamins and nutrients to help you bounce back from travel or illness.",
+                icon: "⚡"
+              },
+              {
+                title: "Beauty & Glow",
+                description: "Glutathione and biotin for skin health and cellular rejuvenation.",
+                icon: "✨"
+              },
+              {
+                title: "Athlete Recovery",
+                description: "Amino acids
