@@ -37,3 +37,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 \nDeployment note: credentials handled via Git credential manager; token prompted on push.
 
 \nNote: Credential flow managed by git-credential-manager-core; push uses a token stored securely.
+
+Note: Pushing directly to main branch.
