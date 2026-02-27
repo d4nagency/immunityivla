@@ -9,6 +9,9 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
             Immunity IV LA
           </Link>
           <nav className="flex items-center gap-4 text-sm">
+            <Link href="/blog" className="hover:underline">
+              Blog
+            </Link>
             <Link href="/immune-boost-iv-los-angeles" className="hover:underline">
               Immune Boost IV
             </Link>
