@@ -8,8 +8,10 @@ export interface BlogPost {
   description: string;
   content: string;
   publishDate: string;
+  modifiedDate?: string;
   author: string;
   tags: string[];
+  image?: string;
 }
 
 const postsDirectory = path.join(process.cwd(), 'content/posts');
