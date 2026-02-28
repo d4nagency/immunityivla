@@ -43,5 +43,41 @@
     "notes": "Requires Facebook/Instagram account",
     "url": null,
     "listingUrl": null
+  },
+  {
+    "date": "2026-02-28T17:43:50.779Z",
+    "site": "Hotfrog",
+    "tier": "TIER 2",
+    "status": "pending",
+    "notes": "Requires free account registration at admin.hotfrog.com - submission URL: https://admin.hotfrog.com/add/index-card",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-02-28T17:43:50.834Z",
+    "site": "Foursquare",
+    "tier": "TIER 2",
+    "status": "pending",
+    "notes": "Requires account - submission URL: https://foursquare.com/add-place",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-02-28T17:43:50.892Z",
+    "site": "Wellness.com",
+    "tier": "TIER 3",
+    "status": "pending",
+    "notes": "Paid directory - requires provider program signup at wellness.com/secure/register",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-02-28T17:43:50.948Z",
+    "site": "Manta",
+    "tier": "TIER 2",
+    "status": "pending",
+    "notes": "Cloudflare security verification blocking automated access - requires manual submission at manta.com",
+    "url": null,
+    "listingUrl": null
   }
 ]
