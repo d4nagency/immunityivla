@@ -41,3 +41,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 Note: Pushing directly to main branch.
 
 Update: Workflow confirmed - direct pushes to main enabled.
+<!-- Author: d4nagency -->
