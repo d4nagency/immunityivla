@@ -45,14 +45,14 @@ export default function ContactPage() {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-12">
         {/* Header */}
         <div className="text-center mb-16">
-          <h1 className="text-4xl sm:text-5xl font-bold text-white">Book Your IV Session</h1>
-          <p className="mt-4 text-lg text-slate-400 max-w-2xl mx-auto">
+          <h1 className="text-4xl sm:text-5xl font-bold text-slate-900">Book Your IV Session</h1>
+          <p className="mt-4 text-lg text-slate-600 max-w-2xl mx-auto">
             Request an appointment and we&apos;ll get back to you within 30 minutes. 
             Or call/text us for immediate assistance.
           </p>
           <a 
             href="tel:949-704-3678" 
-            className="mt-6 inline-flex items-center gap-2 text-2xl font-bold text-emerald-400 hover:text-emerald-300 transition-colors"
+            className="mt-6 inline-flex items-center gap-2 text-2xl font-bold text-[#0d9488] hover:text-[#0f766e] transition-colors"
           >
             <svg className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
@@ -64,23 +64,23 @@ export default function ContactPage() {
         <div className="grid lg:grid-cols-2 gap-12">
           {/* Contact Form */}
           <div className="relative">
-            <div className="absolute -inset-px bg-gradient-to-r from-emerald-500/20 to-cyan-500/20 rounded-2xl" />
-            <div className="relative p-8 rounded-2xl bg-slate-900/50 border border-slate-800/50">
+            <div className="absolute -inset-px bg-gradient-to-r from-[#0d9488]/20 to-[#1e3a5f]/20 rounded-2xl" />
+            <div className="relative p-8 rounded-2xl bg-white border border-slate-200 shadow-sm">
               {status === "sent" ? (
                 <div className="text-center py-12">
-                  <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-emerald-500/20 mb-4">
-                    <svg className="h-8 w-8 text-emerald-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-[#0d9488]/20 mb-4">
+                    <svg className="h-8 w-8 text-[#0d9488]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                     </svg>
                   </div>
-                  <h3 className="text-xl font-semibold text-white">Message sent!</h3>
-                  <p className="mt-2 text-slate-400">
+                  <h3 className="text-xl font-semibold text-slate-900">Message sent!</h3>
+                  <p className="mt-2 text-slate-600">
                     We&apos;ve received your request and sent a confirmation email. 
                     Our team will respond within 30 minutes.
                   </p>
                   <button
                     onClick={() => setStatus("idle")}
-                    className="mt-6 text-emerald-400 hover:text-emerald-300 font-medium"
+                    className="mt-6 text-[#0d9488] hover:text-[#0f766e] font-medium"
                   >
                     Send another message
                   </button>
@@ -93,7 +93,7 @@ export default function ContactPage() {
                   </div>
 
                   <div>
-                    <label htmlFor="name" className="block text-sm font-medium text-slate-300 mb-2">
+                    <label htmlFor="name" className="block text-sm font-medium text-slate-700 mb-2">
                       Name <span className="text-red-500">*</span>
                     </label>
                     <input
@@ -104,12 +104,12 @@ export default function ContactPage() {
                       minLength={2}
                       maxLength={100}
                       placeholder="Your full name"
-                      className="w-full rounded-lg bg-slate-800/50 border border-slate-700/50 px-4 py-3 text-white placeholder:text-slate-500 focus:border-emerald-500/50 focus:outline-none focus:ring-1 focus:ring-emerald-500/50"
+                      className="w-full rounded-lg bg-white border border-slate-200 px-4 py-3 text-slate-900 placeholder:text-slate-400 focus:border-[#0d9488]/50 focus:outline-none focus:ring-1 focus:ring-[#0d9488]/50"
                     />
                   </div>
 
                   <div>
-                    <label htmlFor="email" className="block text-sm font-medium text-slate-300 mb-2">
+                    <label htmlFor="email" className="block text-sm font-medium text-slate-700 mb-2">
                       Email <span className="text-red-500">*</span>
                     </label>
                     <input
@@ -118,12 +118,12 @@ export default function ContactPage() {
                       type="email"
                       required
                       placeholder="you@example.com"
-                      className="w-full rounded-lg bg-slate-800/50 border border-slate-700/50 px-4 py-3 text-white placeholder:text-slate-500 focus:border-emerald-500/50 focus:outline-none focus:ring-1 focus:ring-emerald-500/50"
+                      className="w-full rounded-lg bg-white border border-slate-200 px-4 py-3 text-slate-900 placeholder:text-slate-400 focus:border-[#0d9488]/50 focus:outline-none focus:ring-1 focus:ring-[#0d9488]/50"
                     />
                   </div>
 
                   <div>
-                    <label htmlFor="location" className="block text-sm font-medium text-slate-300 mb-2">
+                    <label htmlFor="location" className="block text-sm font-medium text-slate-700 mb-2">
                       Where are you in LA?
                     </label>
                     <input
@@ -132,7 +132,7 @@ export default function ContactPage() {
                       type="text"
                       placeholder="Neighborhood, hotel, or address"
                       maxLength={200}
-                      className="w-full rounded-lg bg-slate-800/50 border border-slate-700/50 px-4 py-3 text-white placeholder:text-slate-500 focus:border-emerald-500/50 focus:outline-none focus:ring-1 focus:ring-emerald-500/50"
+                      className="w-full rounded-lg bg-white border border-slate-200 px-4 py-3 text-slate-900 placeholder:text-slate-400 focus:border-[#0d9488]/50 focus:outline-none focus:ring-1 focus:ring-[#0d9488]/50"
                     />
                     <p className="mt-1 text-xs text-slate-500">
                       We serve all of Los Angeles including West Hollywood, Santa Monica, Beverly Hills, Downtown LA
@@ -140,7 +140,7 @@ export default function ContactPage() {
                   </div>
 
                   <div>
-                    <label htmlFor="message" className="block text-sm font-medium text-slate-300 mb-2">
+                    <label htmlFor="message" className="block text-sm font-medium text-slate-700 mb-2">
                       What do you need? <span className="text-red-500">*</span>
                     </label>
                     <textarea
@@ -152,22 +152,22 @@ export default function ContactPage() {
                       rows={5}
                       placeholder="Tell us about what you're looking for - immune boost, hydration, recovery? Any specific concerns?"
                       onChange={(e) => setMessageLength(e.target.value.length)}
-                      className="w-full rounded-lg bg-slate-800/50 border border-slate-700/50 px-4 py-3 text-white placeholder:text-slate-500 focus:border-emerald-500/50 focus:outline-none focus:ring-1 focus:ring-emerald-500/50 resize-y"
+                      className="w-full rounded-lg bg-white border border-slate-200 px-4 py-3 text-slate-900 placeholder:text-slate-400 focus:border-[#0d9488]/50 focus:outline-none focus:ring-1 focus:ring-[#0d9488]/50 resize-y"
                     />
                     <div className="mt-1 flex justify-between text-xs text-slate-500">
                       <span>Min 10 characters</span>
-                      <span className={messageLength > 4500 ? "text-orange-400" : ""}>
+                      <span className={messageLength > 4500 ? "text-orange-500" : ""}>
                         {messageLength}/5000
                       </span>
                     </div>
                   </div>
 
                   {status === "error" && (
-                    <div className="p-4 rounded-lg bg-red-500/10 border border-red-500/20">
-                      <p className="text-sm text-red-400">{error}</p>
+                    <div className="p-4 rounded-lg bg-red-50 border border-red-200">
+                      <p className="text-sm text-red-600">{error}</p>
                       <p className="text-xs text-slate-500 mt-1">
                         Having trouble? Call us directly at{" "}
-                        <a href="tel:949-704-3678" className="text-emerald-400">(949) 704-3678</a>
+                        <a href="tel:949-704-3678" className="text-[#0d9488]">(949) 704-3678</a>
                       </p>
                     </div>
                   )}
@@ -175,7 +175,7 @@ export default function ContactPage() {
                   <button
                     type="submit"
                     disabled={status === "sending"}
-                    className="w-full inline-flex items-center justify-center rounded-lg bg-gradient-to-r from-emerald-500 to-cyan-500 px-6 py-4 text-base font-semibold text-white shadow-lg shadow-emerald-500/25 hover:shadow-emerald-500/40 hover:scale-[1.02] transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed"
+                    className="w-full inline-flex items-center justify-center rounded-lg bg-gradient-to-r from-[#0d9488] to-[#1e3a5f] px-6 py-4 text-base font-semibold text-white shadow-lg shadow-[#0d9488]/25 hover:shadow-[#0d9488]/40 hover:scale-[1.02] transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed"
                   >
                     {status === "sending" ? (
                       <>
@@ -201,64 +201,64 @@ export default function ContactPage() {
           {/* Contact Info */}
           <div className="space-y-8">
             <div>
-              <h3 className="text-xl font-semibold text-white mb-4">Contact Information</h3>
+              <h3 className="text-xl font-semibold text-slate-900 mb-4">Contact Information</h3>
               <div className="space-y-4">
                 <a 
                   href="tel:949-704-3678" 
-                  className="flex items-center gap-3 p-4 rounded-xl bg-slate-800/50 border border-slate-700/50 hover:border-emerald-500/50 transition-colors"
+                  className="flex items-center gap-3 p-4 rounded-xl bg-white border border-slate-200 shadow-sm hover:border-[#0d9488]/50 transition-colors"
                 >
-                  <div className="h-10 w-10 rounded-lg bg-emerald-500/20 flex items-center justify-center">
-                    <svg className="h-5 w-5 text-emerald-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <div className="h-10 w-10 rounded-lg bg-[#0d9488]/20 flex items-center justify-center">
+                    <svg className="h-5 w-5 text-[#0d9488]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
                     </svg>
                   </div>
                   <div>
-                    <p className="text-sm text-slate-400">Call or Text</p>
-                    <p className="text-lg font-semibold text-white">(949) 704-3678</p>
+                    <p className="text-sm text-slate-600">Call or Text</p>
+                    <p className="text-lg font-semibold text-slate-900">(949) 704-3678</p>
                   </div>
                 </a>
 
-                <div className="flex items-center gap-3 p-4 rounded-xl bg-slate-800/50 border border-slate-700/50">
-                  <div className="h-10 w-10 rounded-lg bg-cyan-500/20 flex items-center justify-center">
-                    <svg className="h-5 w-5 text-cyan-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <div className="flex items-center gap-3 p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
+                  <div className="h-10 w-10 rounded-lg bg-[#1e3a5f]/20 flex items-center justify-center">
+                    <svg className="h-5 w-5 text-[#1e3a5f]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
                     </svg>
                   </div>
                   <div>
-                    <p className="text-sm text-slate-400">Service Hours</p>
-                    <p className="text-lg font-semibold text-white">Mon–Sun, 8am–8pm</p>
+                    <p className="text-sm text-slate-600">Service Hours</p>
+                    <p className="text-lg font-semibold text-slate-900">Mon–Sun, 8am–8pm</p>
                   </div>
                 </div>
 
-                <div className="flex items-center gap-3 p-4 rounded-xl bg-slate-800/50 border border-slate-700/50">
-                  <div className="h-10 w-10 rounded-lg bg-purple-500/20 flex items-center justify-center">
-                    <svg className="h-5 w-5 text-purple-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <div className="flex items-center gap-3 p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
+                  <div className="h-10 w-10 rounded-lg bg-[#0d9488]/20 flex items-center justify-center">
+                    <svg className="h-5 w-5 text-[#0d9488]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                     </svg>
                   </div>
                   <div>
-                    <p className="text-sm text-slate-400">Service Area</p>
-                    <p className="text-lg font-semibold text-white">All of Los Angeles</p>
+                    <p className="text-sm text-slate-600">Service Area</p>
+                    <p className="text-lg font-semibold text-slate-900">All of Los Angeles</p>
                   </div>
                 </div>
               </div>
             </div>
 
             <div>
-              <h3 className="text-xl font-semibold text-white mb-4">Response Times</h3>
+              <h3 className="text-xl font-semibold text-slate-900 mb-4">Response Times</h3>
               <div className="space-y-3">
-                <div className="flex justify-between items-center p-3 rounded-lg bg-slate-800/30">
-                  <span className="text-slate-400">Phone / Text</span>
-                  <span className="text-emerald-400 font-medium">~30 minutes</span>
+                <div className="flex justify-between items-center p-3 rounded-lg bg-slate-50">
+                  <span className="text-slate-600">Phone / Text</span>
+                  <span className="text-[#0d9488] font-medium">~30 minutes</span>
                 </div>
-                <div className="flex justify-between items-center p-3 rounded-lg bg-slate-800/30">
-                  <span className="text-slate-400">Email / Form</span>
-                  <span className="text-cyan-400 font-medium">~2 hours</span>
+                <div className="flex justify-between items-center p-3 rounded-lg bg-slate-50">
+                  <span className="text-slate-600">Email / Form</span>
+                  <span className="text-[#1e3a5f] font-medium">~2 hours</span>
                 </div>
-                <div className="flex justify-between items-center p-3 rounded-lg bg-slate-800/30">
-                  <span className="text-slate-400">Same-day booking</span>
-                  <span className="text-purple-400 font-medium">Subject to availability</span>
+                <div className="flex justify-between items-center p-3 rounded-lg bg-slate-50">
+                  <span className="text-slate-600">Same-day booking</span>
+                  <span className="text-slate-700 font-medium">Subject to availability</span>
                 </div>
               </div>
             </div>

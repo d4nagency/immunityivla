@@ -59,7 +59,7 @@ export default async function BlogPostPage({ params }: Props) {
   const contentParagraphs = post.content.split("\n\n");
 
   return (
-    <div className="min-h-screen bg-slate-950">
+    <div className="min-h-screen bg-white">
       {/* Schema.org structured data */}
       <script
         type="application/ld+json"
@@ -97,18 +97,18 @@ export default async function BlogPostPage({ params }: Props) {
         <nav className="text-sm text-slate-500 mb-8" aria-label="Breadcrumb">
           <ol className="flex items-center space-x-2">
             <li>
-              <Link href="/" className="hover:text-emerald-400 transition-colors">
+              <Link href="/" className="hover:text-[#0d9488] transition-colors">
                 Home
               </Link>
             </li>
-            <li aria-hidden="true" className="text-slate-600">/</li>
+            <li aria-hidden="true" className="text-slate-400">/</li>
             <li>
-              <Link href="/blog" className="hover:text-emerald-400 transition-colors">
+              <Link href="/blog" className="hover:text-[#0d9488] transition-colors">
                 Blog
               </Link>
             </li>
-            <li aria-hidden="true" className="text-slate-600">/</li>
-            <li className="text-slate-400 truncate max-w-xs" aria-current="page">
+            <li aria-hidden="true" className="text-slate-400">/</li>
+            <li className="text-slate-600 truncate max-w-xs" aria-current="page">
               {post.title}
             </li>
           </ol>
@@ -121,7 +121,7 @@ export default async function BlogPostPage({ params }: Props) {
             {post.tags.map((tag) => (
               <span
                 key={tag}
-                className="text-xs font-medium px-3 py-1 bg-emerald-500/10 text-emerald-400 rounded-full ring-1 ring-emerald-500/20"
+                className="text-xs font-medium px-3 py-1 bg-[#0d9488]/10 text-[#0d9488] rounded-full ring-1 ring-[#0d9488]/20"
               >
                 {tag}
               </span>
@@ -129,12 +129,12 @@ export default async function BlogPostPage({ params }: Props) {
           </div>
 
           {/* Title */}
-          <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-6">
+          <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-slate-900 mb-6">
             {post.title}
           </h1>
 
           {/* Meta */}
-          <div className="flex items-center text-slate-400 text-sm">
+          <div className="flex items-center text-slate-600 text-sm">
             <time dateTime={post.publishDate} className="font-medium">
               {new Date(post.publishDate).toLocaleDateString("en-US", {
                 month: "long",
@@ -142,19 +142,19 @@ export default async function BlogPostPage({ params }: Props) {
                 year: "numeric",
               })}
             </time>
-            <span className="mx-3 text-slate-600">•</span>
+            <span className="mx-3 text-slate-300">•</span>
             <span>{post.author}</span>
           </div>
         </header>
 
         {/* Content */}
-        <div className="prose prose-lg prose-invert prose-emerald max-w-none">
+        <div className="prose prose-lg prose-slate max-w-none">
           {contentParagraphs.map((paragraph, index) => {
             // Handle headings
             if (paragraph.startsWith("## ")) {
               const text = paragraph.replace("## ", "");
               return (
-                <h2 key={index} className="text-2xl font-bold text-white mt-12 mb-4">
+                <h2 key={index} className="text-2xl font-bold text-slate-900 mt-12 mb-4">
                   {text}
                 </h2>
               );
@@ -162,7 +162,7 @@ export default async function BlogPostPage({ params }: Props) {
             if (paragraph.startsWith("### ")) {
               const text = paragraph.replace("### ", "");
               return (
-                <h3 key={index} className="text-xl font-semibold text-emerald-400 mt-8 mb-3">
+                <h3 key={index} className="text-xl font-semibold text-[#0d9488] mt-8 mb-3">
                   {text}
                 </h3>
               );
@@ -172,15 +172,15 @@ export default async function BlogPostPage({ params }: Props) {
               const lines = paragraph.split("\n");
               if (lines.every((line) => line.startsWith("- ") || line.startsWith("**"))) {
                 return (
-                  <ul key={index} className="list-disc list-inside space-y-2 my-4 text-slate-300">
+                  <ul key={index} className="list-disc list-inside space-y-2 my-4 text-slate-700">
                     {lines.map((line, lineIndex) => {
                       const text = line.replace("- ", "").replace(/\*\*(.*?)\*\*/g, "$1");
                       const parts = line.replace("- ", "").split(/(\*\*.*?\*\*)/);
                       return (
-                        <li key={lineIndex} className="text-slate-300">
+                        <li key={lineIndex} className="text-slate-700">
                           {parts.map((part, partIndex) => {
                             if (part.startsWith("**") && part.endsWith("**")) {
-                              return <strong key={partIndex} className="text-white">{part.slice(2, -2)}</strong>;
+                              return <strong key={partIndex} className="text-slate-900">{part.slice(2, -2)}</strong>;
                             }
                             return part;
                           })}
@@ -196,7 +196,7 @@ export default async function BlogPostPage({ params }: Props) {
               return (
                 <blockquote
                   key={index}
-                  className="border-l-4 border-emerald-500 pl-4 italic text-slate-400 my-6"
+                  className="border-l-4 border-[#0d9488] pl-4 italic text-slate-600 my-6"
                 >
                   {paragraph.replace("> ", "")}
                 </blockquote>
@@ -206,7 +206,7 @@ export default async function BlogPostPage({ params }: Props) {
             if (paragraph.includes("[") && paragraph.includes("](/")) {
               const parts = paragraph.split(/(\[.*?\]\(\/.*?:?\))/);
               return (
-                <p key={index} className="text-slate-300 leading-relaxed my-4">
+                <p key={index} className="text-slate-700 leading-relaxed my-4">
                   {parts.map((part, partIndex) => {
                     const match = part.match(/\[(.*?)\]\(\/(.*?)\)/);
                     if (match) {
@@ -216,7 +216,7 @@ export default async function BlogPostPage({ params }: Props) {
                         <Link
                           key={partIndex}
                           href={href}
-                          className="text-emerald-400 hover:text-emerald-300 font-medium"
+                          className="text-[#0d9488] hover:text-[#0f766e] font-medium"
                         >
                           {text}
                         </Link>
@@ -232,10 +232,10 @@ export default async function BlogPostPage({ params }: Props) {
               // Handle bold text
               const parts = paragraph.split(/(\*\*.*?\*\*)/);
               return (
-                <p key={index} className="text-slate-300 leading-relaxed my-4">
+                <p key={index} className="text-slate-700 leading-relaxed my-4">
                   {parts.map((part, partIndex) => {
                     if (part.startsWith("**") && part.endsWith("**")) {
-                      return <strong key={partIndex} className="text-white">{part.slice(2, -2)}</strong>;
+                      return <strong key={partIndex} className="text-slate-900">{part.slice(2, -2)}</strong>;
                     }
                     return part;
                   })}
@@ -248,24 +248,24 @@ export default async function BlogPostPage({ params }: Props) {
 
         {/* CTA Box */}
         <div className="mt-16 relative">
-          <div className="absolute -inset-px bg-gradient-to-r from-emerald-500/20 to-cyan-500/20 rounded-2xl" />
-          <div className="relative p-8 rounded-2xl bg-slate-900/50 border border-slate-800/50">
-            <h3 className="text-xl font-bold text-white mb-3">
+          <div className="absolute -inset-px bg-gradient-to-r from-[#0d9488]/20 to-[#1e3a5f]/20 rounded-2xl" />
+          <div className="relative p-8 rounded-2xl bg-white border border-slate-200 shadow-sm">
+            <h3 className="text-xl font-bold text-slate-900 mb-3">
               Ready to Try IV Therapy?
             </h3>
-            <p className="text-slate-400 mb-6">
+            <p className="text-slate-600 mb-6">
               Book a mobile Immune Boost IV session in Los Angeles. We come to your home, hotel, or office.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <Link
                 href="/contact"
-                className="inline-flex items-center justify-center rounded-full bg-gradient-to-r from-emerald-500 to-cyan-500 px-6 py-3 text-base font-semibold text-white shadow-lg shadow-emerald-500/25 hover:shadow-emerald-500/40 hover:scale-105 transition-all duration-300"
+                className="inline-flex items-center justify-center rounded-full bg-gradient-to-r from-[#0d9488] to-[#1e3a5f] px-6 py-3 text-base font-semibold text-white shadow-lg shadow-[#0d9488]/25 hover:shadow-[#0d9488]/40 hover:scale-105 transition-all duration-300"
               >
                 Book Appointment
               </Link>
               <a
                 href="tel:949-704-3678"
-                className="inline-flex items-center justify-center rounded-full bg-slate-800 px-6 py-3 text-base font-semibold text-white ring-1 ring-slate-700 hover:bg-slate-700 transition-all duration-300"
+                className="inline-flex items-center justify-center rounded-full bg-slate-100 px-6 py-3 text-base font-semibold text-slate-800 ring-1 ring-slate-200 hover:bg-slate-200 transition-all duration-300"
               >
                 Call (949) 704-3678
               </a>
@@ -274,10 +274,10 @@ export default async function BlogPostPage({ params }: Props) {
         </div>
 
         {/* Navigation */}
-        <nav className="mt-12 pt-8 border-t border-slate-800/50">
+        <nav className="mt-12 pt-8 border-t border-slate-200">
           <Link
             href="/blog"
-            className="inline-flex items-center text-emerald-400 hover:text-emerald-300 font-medium transition-colors"
+            className="inline-flex items-center text-[#0d9488] hover:text-[#0f766e] font-medium transition-colors"
           >
             <svg className="mr-2 h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 19l-7-7m0 0l7-7m-7 7h18" />
