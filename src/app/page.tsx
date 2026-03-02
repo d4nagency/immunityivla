@@ -100,7 +100,7 @@ export default function Home() {
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
             style={{
-              backgroundImage: `linear-gradient(135deg, rgba(26, 58, 92, 0.95) 0%, rgba(26, 58, 92, 0.85) 50%, rgba(13, 148, 136, 0.75) 100%), url('https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&q=80')`
+              backgroundImage: `linear-gradient(135deg, rgba(26, 58, 92, 0.85) 0%, rgba(26, 58, 92, 0.75) 50%, rgba(13, 148, 136, 0.65) 100%), url('/hero-banner.jpg')`
             }}
           />
         </div>
