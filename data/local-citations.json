@@ -3,10 +3,11 @@
     "date": "2026-02-27T17:46:34.086Z",
     "site": "Google Business Profile",
     "tier": "TIER 1",
-    "status": "pending",
-    "notes": "Requires Google Account - not created",
+    "status": "in-progress",
+    "notes": "Requires Google account authentication - needs owner credentials to complete",
     "url": null,
-    "listingUrl": null
+    "listingUrl": null,
+    "updatedAt": "2026-03-03T17:44:31.116Z"
   },
   {
     "date": "2026-02-27T17:46:36.602Z",
@@ -21,10 +22,11 @@
     "date": "2026-02-27T17:46:40.003Z",
     "site": "Bing Places",
     "tier": "TIER 1",
-    "status": "pending",
-    "notes": "Requires Microsoft/Google/Facebook account",
+    "status": "in-progress",
+    "notes": "Requires Microsoft/Google/Facebook authentication - needs owner credentials",
     "url": null,
-    "listingUrl": null
+    "listingUrl": null,
+    "updatedAt": "2026-03-03T17:44:47.668Z"
   },
   {
     "date": "2026-02-27T17:46:43.181Z",
@@ -77,6 +79,15 @@
     "tier": "TIER 2",
     "status": "pending",
     "notes": "Cloudflare security verification blocking automated access - requires manual submission at manta.com",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-03-03T17:44:55.229Z",
+    "site": "Yellow Pages",
+    "tier": "TIER 2",
+    "status": "in-progress",
+    "notes": "Cloudflare bot protection active - requires manual submission or authenticated session",
     "url": null,
     "listingUrl": null
   }
