@@ -13,10 +13,11 @@
     "date": "2026-02-27T17:46:36.602Z",
     "site": "Yelp for Business",
     "tier": "TIER 1",
-    "status": "pending",
-    "notes": "403 blocked - requires business account",
+    "status": "in-progress",
+    "notes": "Started listing creation",
     "url": null,
-    "listingUrl": null
+    "listingUrl": null,
+    "updatedAt": "2026-03-04T17:42:45.355Z"
   },
   {
     "date": "2026-02-27T17:46:40.003Z",
@@ -50,10 +51,11 @@
     "date": "2026-02-28T17:43:50.779Z",
     "site": "Hotfrog",
     "tier": "TIER 2",
-    "status": "pending",
-    "notes": "Requires free account registration at admin.hotfrog.com - submission URL: https://admin.hotfrog.com/add/index-card",
+    "status": "in-progress",
+    "notes": "Requires manual account registration - form accessible at /add",
     "url": null,
-    "listingUrl": null
+    "listingUrl": null,
+    "updatedAt": "2026-03-04T17:43:58.841Z"
   },
   {
     "date": "2026-02-28T17:43:50.834Z",
@@ -87,8 +89,9 @@
     "site": "Yellow Pages",
     "tier": "TIER 2",
     "status": "in-progress",
-    "notes": "Cloudflare bot protection active - requires manual submission or authenticated session",
+    "notes": "Started listing creation",
     "url": null,
-    "listingUrl": null
+    "listingUrl": null,
+    "updatedAt": "2026-03-04T17:42:45.405Z"
   }
 ]
