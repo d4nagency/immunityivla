@@ -3,95 +3,118 @@
     "date": "2026-02-27T17:46:34.086Z",
     "site": "Google Business Profile",
     "tier": "TIER 1",
-    "status": "in-progress",
-    "notes": "Requires Google account authentication - needs owner credentials to complete",
-    "url": null,
+    "status": "blocked",
+    "notes": "BLOCKER: Requires Google account authentication + phone/postcard verification - needs owner credentials",
+    "url": "https://business.google.com/create",
     "listingUrl": null,
-    "updatedAt": "2026-03-03T17:44:31.116Z"
+    "updatedAt": "2026-03-07T17:47:00.000Z"
   },
   {
     "date": "2026-02-27T17:46:36.602Z",
     "site": "Yelp for Business",
     "tier": "TIER 1",
-    "status": "in-progress",
-    "notes": "Started listing creation",
-    "url": null,
+    "status": "blocked",
+    "notes": "BLOCKER: Requires Yelp business account + phone verification - needs owner credentials",
+    "url": "https://biz.yelp.com",
     "listingUrl": null,
-    "updatedAt": "2026-03-04T17:42:45.355Z"
+    "updatedAt": "2026-03-07T17:47:00.000Z"
   },
   {
     "date": "2026-02-27T17:46:40.003Z",
     "site": "Bing Places",
     "tier": "TIER 1",
-    "status": "in-progress",
-    "notes": "Requires Microsoft/Google/Facebook authentication - needs owner credentials",
-    "url": null,
+    "status": "blocked",
+    "notes": "BLOCKER: Requires Microsoft/Google/Facebook auth + phone verification - needs owner credentials",
+    "url": "https://www.bingplaces.com",
     "listingUrl": null,
-    "updatedAt": "2026-03-03T17:44:47.668Z"
+    "updatedAt": "2026-03-07T17:47:00.000Z"
   },
   {
     "date": "2026-02-27T17:46:43.181Z",
     "site": "Apple Business Connect",
     "tier": "TIER 1",
-    "status": "pending",
-    "notes": "Requires Apple ID",
-    "url": null,
-    "listingUrl": null
+    "status": "blocked",
+    "notes": "BLOCKER: Requires Apple ID + verification code sent to business address",
+    "url": "https://businessconnect.apple.com",
+    "listingUrl": null,
+    "updatedAt": "2026-03-07T17:47:00.000Z"
   },
   {
     "date": "2026-02-27T17:46:46.070Z",
     "site": "Facebook Business",
     "tier": "TIER 1",
-    "status": "pending",
-    "notes": "Requires Facebook/Instagram account",
-    "url": null,
-    "listingUrl": null
+    "status": "blocked",
+    "notes": "BLOCKER: Requires Facebook Business Manager account - needs owner credentials",
+    "url": "https://business.facebook.com",
+    "listingUrl": null,
+    "updatedAt": "2026-03-07T17:47:00.000Z"
   },
   {
     "date": "2026-02-28T17:43:50.779Z",
     "site": "Hotfrog",
     "tier": "TIER 2",
-    "status": "in-progress",
-    "notes": "Requires manual account registration - form accessible at /add",
-    "url": null,
+    "status": "blocked",
+    "notes": "BLOCKER: Requires account registration at hotfrog.com/login/register + BUSINESS_PHONE not set",
+    "url": "https://www.hotfrog.com/add",
     "listingUrl": null,
-    "updatedAt": "2026-03-04T17:43:58.841Z"
+    "updatedAt": "2026-03-07T17:47:00.000Z"
   },
   {
     "date": "2026-02-28T17:43:50.834Z",
     "site": "Foursquare",
     "tier": "TIER 2",
-    "status": "pending",
-    "notes": "Requires account - submission URL: https://foursquare.com/add-place",
-    "url": null,
-    "listingUrl": null
+    "status": "blocked",
+    "notes": "BLOCKER: Requires free account signup at foursquare.com/signup + BUSINESS_PHONE not set",
+    "url": "https://foursquare.com/add-place",
+    "listingUrl": null,
+    "updatedAt": "2026-03-07T17:47:00.000Z"
   },
   {
     "date": "2026-02-28T17:43:50.892Z",
     "site": "Wellness.com",
     "tier": "TIER 3",
-    "status": "pending",
-    "notes": "Paid directory - requires provider program signup at wellness.com/secure/register",
-    "url": null,
-    "listingUrl": null
+    "status": "blocked",
+    "notes": "BLOCKER: Paid directory ($$/month) - requires provider program signup",
+    "url": "https://www.wellness.com",
+    "listingUrl": null,
+    "updatedAt": "2026-03-07T17:47:00.000Z"
   },
   {
     "date": "2026-02-28T17:43:50.948Z",
     "site": "Manta",
     "tier": "TIER 2",
-    "status": "pending",
-    "notes": "Cloudflare security verification blocking automated access - requires manual submission at manta.com",
-    "url": null,
-    "listingUrl": null
+    "status": "blocked",
+    "notes": "BLOCKER: Cloudflare security verification blocking automated access - requires manual submission",
+    "url": "https://www.manta.com",
+    "listingUrl": null,
+    "updatedAt": "2026-03-07T17:47:00.000Z"
   },
   {
     "date": "2026-03-03T17:44:55.229Z",
     "site": "Yellow Pages",
     "tier": "TIER 2",
-    "status": "in-progress",
-    "notes": "Started listing creation",
-    "url": null,
+    "status": "blocked",
+    "notes": "BLOCKER: Cloudflare security blocking IP + requires account signup + BUSINESS_PHONE not set",
+    "url": "https://www.yellowpages.com/claim",
     "listingUrl": null,
-    "updatedAt": "2026-03-04T17:42:45.405Z"
+    "updatedAt": "2026-03-07T17:47:00.000Z"
+  },
+  {
+    "date": "2026-03-07T17:47:00.000Z",
+    "site": "MerchantCircle",
+    "tier": "TIER 2",
+    "status": "pending",
+    "notes": "Accessible at merchantcircle.com/signup - requires free account + BUSINESS_PHONE",
+    "url": "https://www.merchantcircle.com/signup",
+    "listingUrl": null
+  },
+  {
+    "date": "2026-03-07T17:47:00.000Z",
+    "site": "MapQuest",
+    "tier": "TIER 2",
+    "status": "blocked",
+    "notes": "BLOCKER: Site error on load - may be temporarily unavailable or blocking automation",
+    "url": "https://www.mapquest.com",
+    "listingUrl": null
   }
 ]
