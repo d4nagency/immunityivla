@@ -3,21 +3,21 @@
     "date": "2026-02-27T17:46:34.086Z",
     "site": "Google Business Profile",
     "tier": "TIER 1",
-    "status": "blocked",
-    "notes": "BLOCKER: Requires Google account authentication + phone/postcard verification - needs owner credentials",
+    "status": "pending",
+    "notes": "BLOCKED: Requires Google Account + BUSINESS_PHONE env var",
     "url": "https://business.google.com/create",
     "listingUrl": null,
-    "updatedAt": "2026-03-07T17:47:00.000Z"
+    "updatedAt": "2026-03-10T17:48:23.978Z"
   },
   {
     "date": "2026-02-27T17:46:36.602Z",
     "site": "Yelp for Business",
     "tier": "TIER 1",
-    "status": "blocked",
-    "notes": "BLOCKER: Requires Yelp business account + phone verification - needs owner credentials",
+    "status": "pending",
+    "notes": "BLOCKED: Requires Yelp business account",
     "url": "https://biz.yelp.com",
     "listingUrl": null,
-    "updatedAt": "2026-03-07T17:47:00.000Z"
+    "updatedAt": "2026-03-10T17:48:24.046Z"
   },
   {
     "date": "2026-02-27T17:46:40.003Z",
