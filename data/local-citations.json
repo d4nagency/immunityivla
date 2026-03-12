@@ -116,5 +116,14 @@
     "notes": "BLOCKER: Site error on load - may be temporarily unavailable or blocking automation",
     "url": "https://www.mapquest.com",
     "listingUrl": null
+  },
+  {
+    "date": "2026-03-12T17:49:13.215Z",
+    "site": "Daily Review - March 12",
+    "tier": "TIER 1",
+    "status": "blocked",
+    "notes": "BUSINESS_PHONE env var not set; All TIER 1 sites require owner account credentials (Google, Facebook, Apple, Microsoft)",
+    "url": null,
+    "listingUrl": null
   }
 ]
