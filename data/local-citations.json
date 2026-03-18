@@ -125,5 +125,14 @@
     "notes": "BUSINESS_PHONE env var not set; All TIER 1 sites require owner account credentials (Google, Facebook, Apple, Microsoft)",
     "url": null,
     "listingUrl": null
+  },
+  {
+    "date": "2026-03-18T17:48:34.645Z",
+    "site": "Daily Review - March 18",
+    "tier": "TIER 1",
+    "status": "blocked",
+    "notes": "BUSINESS_PHONE env var not set; All TIER 1 sites require owner account credentials (Google, Facebook, Apple, Microsoft)",
+    "url": null,
+    "listingUrl": null
   }
 ]
