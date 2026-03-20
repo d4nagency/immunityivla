@@ -3,41 +3,41 @@
     "date": "2026-02-27T17:46:34.086Z",
     "site": "Google Business Profile",
     "tier": "TIER 1",
-    "status": "pending",
-    "notes": "BLOCKED: Requires Google Account + BUSINESS_PHONE env var",
+    "status": "in-progress",
+    "notes": "Requires Google account sign-in. Use NAP: Immunity IV LA, https://immunityivla.com, hello@immunityivla.com. Categories: IV Therapy, Mobile Medical Services, Wellness. Hours: Mon-Sun 8AM-8PM. BUSINESS_PHONE env var needed.",
     "url": "https://business.google.com/create",
     "listingUrl": null,
-    "updatedAt": "2026-03-10T17:48:23.978Z"
+    "updatedAt": "2026-03-20T17:51:27.803Z"
   },
   {
     "date": "2026-02-27T17:46:36.602Z",
     "site": "Yelp for Business",
     "tier": "TIER 1",
-    "status": "pending",
-    "notes": "BLOCKED: Requires Yelp business account",
+    "status": "in-progress",
+    "notes": "Requires business account at https://biz.yelp.com. Use consistent NAP info. Add services: Immune Boost IV, Hydration IV, Mobile IV Therapy.",
     "url": "https://biz.yelp.com",
     "listingUrl": null,
-    "updatedAt": "2026-03-10T17:48:24.046Z"
+    "updatedAt": "2026-03-20T17:52:02.474Z"
   },
   {
     "date": "2026-02-27T17:46:40.003Z",
     "site": "Bing Places",
     "tier": "TIER 1",
-    "status": "blocked",
-    "notes": "BLOCKER: Requires Microsoft/Google/Facebook auth + phone verification - needs owner credentials",
+    "status": "in-progress",
+    "notes": "Requires Microsoft account. Sign up at https://www.bingplaces.com. Use consistent NAP. Categories: IV Therapy, Mobile Medical Services, Wellness. Business address needed for verification.",
     "url": "https://www.bingplaces.com",
     "listingUrl": null,
-    "updatedAt": "2026-03-07T17:47:00.000Z"
+    "updatedAt": "2026-03-20T17:52:43.342Z"
   },
   {
     "date": "2026-02-27T17:46:43.181Z",
     "site": "Apple Business Connect",
     "tier": "TIER 1",
-    "status": "blocked",
-    "notes": "BLOCKER: Requires Apple ID + verification code sent to business address",
+    "status": "in-progress",
+    "notes": "Requires Apple ID. Sign up at https://businessconnect.apple.com. Use consistent NAP. Provides Apple Maps visibility for 1B+ iPhone users. Critical for mobile users searching IV therapy in LA.",
     "url": "https://businessconnect.apple.com",
     "listingUrl": null,
-    "updatedAt": "2026-03-07T17:47:00.000Z"
+    "updatedAt": "2026-03-20T17:52:53.173Z"
   },
   {
     "date": "2026-02-27T17:46:46.070Z",
