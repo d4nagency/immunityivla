@@ -143,5 +143,14 @@
     "notes": "4 TIER 1 citations in progress (Google, Yelp, Bing, Apple). All require owner account credentials. 1 TIER 1 blocked (Facebook). BUSINESS_PHONE env var still needed.",
     "url": null,
     "listingUrl": null
+  },
+  {
+    "date": "2026-04-09T17:54:58.574Z",
+    "site": "Daily Review - April 9",
+    "tier": "TIER 1",
+    "status": "in-progress",
+    "notes": "Phone number found: (949) 704-3678. All TIER 1 sites still require owner account credentials (Google, Yelp, Bing, Apple, Facebook)",
+    "url": null,
+    "listingUrl": null
   }
 ]
