@@ -152,5 +152,14 @@
     "notes": "Phone number found: (949) 704-3678. All TIER 1 sites still require owner account credentials (Google, Yelp, Bing, Apple, Facebook)",
     "url": null,
     "listingUrl": null
+  },
+  {
+    "date": "2026-04-13T17:50:38.070Z",
+    "site": "Daily Review - April 13",
+    "tier": "TIER 1",
+    "status": "in-progress",
+    "notes": "Phone confirmed: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner account credentials. Ready for owner to complete. TIER 2 BBB listing available at bbb.org/get-listed (free).",
+    "url": null,
+    "listingUrl": null
   }
 ]
