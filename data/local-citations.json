@@ -161,5 +161,41 @@
     "notes": "Phone confirmed: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner account credentials. Ready for owner to complete. TIER 2 BBB listing available at bbb.org/get-listed (free).",
     "url": null,
     "listingUrl": null
+  },
+  {
+    "date": "2026-04-14T22:40:41.098Z",
+    "site": "BBB (Better Business Bureau)",
+    "tier": "TIER 2",
+    "status": "in-progress",
+    "notes": "Submission page confirmed at bbb.org/get-listed - requires business verification, free listing available",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-14T22:40:44.253Z",
+    "site": "IV Therapy Locator",
+    "tier": "TIER 3",
+    "status": "in-progress",
+    "notes": "Healthcare-specific directory at ivtherapydirectory.com - has provider signup at akamaiinnovations.com/join",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-14T22:40:49.665Z",
+    "site": "@LA Business Directory",
+    "tier": "TIER 4",
+    "status": "in-progress",
+    "notes": "LA-specific directory at at-la.com - online since 1995, has Health/Medicine category for IV therapy",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-14T22:40:55.606Z",
+    "site": "Daily Review - April 14",
+    "tier": "TIER 1",
+    "status": "in-progress",
+    "notes": "Researched new citation opportunities. Phone confirmed (949) 704-3678. All 5 TIER 1 sites still need owner account credentials. Found 3 new viable Tier 2-4 directories: BBB, IV Therapy Locator, @LA Directory",
+    "url": null,
+    "listingUrl": null
   }
 ]
