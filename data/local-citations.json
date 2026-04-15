@@ -236,5 +236,33 @@
     "notes": "Local LA directory at businessdirectorylosangeles.com - Free business listings available",
     "url": null,
     "listingUrl": null
+  },
+  {
+    "date": "2026-04-15T08:38:00.000Z",
+    "site": "Superpages",
+    "tier": "TIER 2",
+    "status": "in-progress",
+    "notes": "Legacy directory owned by DexMedia. Still accepting free business listings. Portal at superpages.com for adding new listings.",
+    "url": "https://www.superpages.com",
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-15T08:38:00.000Z",
+    "site": "Vitals",
+    "tier": "TIER 3",
+    "status": "in-progress",
+    "notes": "Healthcare provider directory (120M+ annual users). Vitals.com accepts listings for medical providers and wellness services. Can be claimed via Yext or directly.",
+    "url": "https://www.vitals.com",
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-15T08:40:41.000Z",
+    "site": "Daily Review - April 15",
+    "tier": "TIER 1",
+    "status": "in-progress",
+    "notes": "Daily citation research complete. Phone confirmed: (949) 704-3678. All 5 TIER 1 sites still require owner credentials. Identified 2 new viable directories: Superpages (TIER 2 - DexMedia directory with free listings) and Vitals (TIER 3 - healthcare directory, 120M users/year). Current active citations: 8 in-progress across TIER 2-4. Total completed: 0 (awaiting owner action on TIER 1).",
+    "url": null,
+    "listingUrl": null,
+    "updatedAt": "2026-04-15T08:40:41.000Z"
   }
 ]
