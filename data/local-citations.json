@@ -177,9 +177,10 @@
     "site": "IV Therapy Locator",
     "tier": "TIER 3",
     "status": "in-progress",
-    "notes": "Healthcare-specific directory at ivtherapydirectory.com - has provider signup at akamaiinnovations.com/join",
+    "notes": "Healthcare-specific directory at ivtherapydirectory.com - Nationwide IV therapy database. Provider signup via akamaiinnovations.com/join/",
     "url": null,
-    "listingUrl": null
+    "listingUrl": null,
+    "updatedAt": "2026-04-15T06:40:19.069Z"
   },
   {
     "date": "2026-04-14T22:40:49.665Z",
@@ -205,6 +206,34 @@
     "tier": "TIER 2",
     "status": "in-progress",
     "notes": "IV therapy businesses listed (Rescue Me example found). Category: Medical Clinic. Ready to submit.",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-15T04:38:51.833Z",
+    "site": "Daily Review - April 15",
+    "tier": "TIER 1",
+    "status": "in-progress",
+    "notes": "Researched 3 new viable directories for Immunity IV LA: 1) The IV Directory (theivdirectory.com) - 45 LA providers listed, Immune Boost category available; 2) IV Therapy Locator (ivtherapydirectory.com) - National database with CA/IV Therapy category; 3) Los Angeles Business Directory (businessdirectorylosangeles.com) - Free LA-specific listings. Phone: (949) 704-3678 confirmed. All 5 TIER 1 sites still require owner account credentials.",
+    "url": null,
+    "listingUrl": null,
+    "updatedAt": "2026-04-15T06:40:48.204Z"
+  },
+  {
+    "date": "2026-04-15T06:40:19.027Z",
+    "site": "The IV Directory",
+    "tier": "TIER 3",
+    "status": "in-progress",
+    "notes": "IV therapy specific directory - 45 providers listed in LA. Free listings available at theivdirectory.com/city/los-angeles-ca for Immune Boost category",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-15T06:40:19.088Z",
+    "site": "Los Angeles Business Directory",
+    "tier": "TIER 4",
+    "status": "in-progress",
+    "notes": "Local LA directory at businessdirectorylosangeles.com - Free business listings available",
     "url": null,
     "listingUrl": null
   }
