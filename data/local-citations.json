@@ -167,9 +167,10 @@
     "site": "BBB (Better Business Bureau)",
     "tier": "TIER 2",
     "status": "in-progress",
-    "notes": "Submission page confirmed at bbb.org/get-listed - requires business verification, free listing available",
+    "notes": "Submission page verified at bbb.org/get-listed - free listing available, requires business verification",
     "url": null,
-    "listingUrl": null
+    "listingUrl": null,
+    "updatedAt": "2026-04-15T00:40:41.741Z"
   },
   {
     "date": "2026-04-14T22:40:44.253Z",
@@ -195,6 +196,15 @@
     "tier": "TIER 1",
     "status": "in-progress",
     "notes": "Researched new citation opportunities. Phone confirmed (949) 704-3678. All 5 TIER 1 sites still need owner account credentials. Found 3 new viable Tier 2-4 directories: BBB, IV Therapy Locator, @LA Directory",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-15T00:40:41.734Z",
+    "site": "Chamber of Commerce",
+    "tier": "TIER 2",
+    "status": "in-progress",
+    "notes": "IV therapy businesses listed (Rescue Me example found). Category: Medical Clinic. Ready to submit.",
     "url": null,
     "listingUrl": null
   }
