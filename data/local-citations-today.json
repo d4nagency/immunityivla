@@ -1,0 +1,73 @@
+{
+  "date": "2026-04-15",
+  "summary": "Daily Citation Research - 3 New Directories Identified",
+  "businessInfo": {
+    "name": "Immunity IV LA",
+    "phone": "(949) 704-3678",
+    "website": "https://immunityivla.com",
+    "email": "hello@immunityivla.com",
+    "description": "Mobile Immune Boost IV therapy delivered to your home or hotel in Los Angeles. Licensed clinicians, same-day appointments available.",
+    "categories": ["IV Therapy", "Mobile Medical Services", "Wellness"],
+    "hours": "Mon-Sun: 8:00 AM - 8:00 PM"
+  },
+  "todaysResearch": [
+    {
+      "name": "EZlocal",
+      "tier": "TIER 2",
+      "url": "https://dash.ezlocal.com/newlisting/",
+      "status": "ready",
+      "action": "Free listing available - Sign up with business info, verify via phone",
+      "notes": "US-focused directory. No cost. Good for local SEO boost."
+    },
+    {
+      "name": "iGlobal",
+      "tier": "TIER 2",
+      "url": "https://www.iglobal.co/united-states",
+      "status": "ready",
+      "action": "Free global directory covering 60 countries. Add business at iglobal.co",
+      "notes": "Global reach, free verification process, good backlink value."
+    },
+    {
+      "name": "Los Angeles Business Journal (LABJ)",
+      "tier": "TIER 4",
+      "url": "https://labusinessjournal.com/subscribe-or-list",
+      "status": "research",
+      "action": "Check for free basic listing or paid options",
+      "notes": "High-authority LA-specific publication. May require paid subscription for listing."
+    }
+  ],
+  "blockedSites": [
+    {
+      "name": "Superpages",
+      "reason": "Cloudflare blocking automated access",
+      "workaround": "Manual submission only"
+    },
+    {
+      "name": "Cylex",
+      "reason": "Cloudflare blocking automated access",
+      "workaround": "Manual submission at cylex.us.com - free listing available"
+    },
+    {
+      "name": "Yellow Pages",
+      "reason": "Cloudflare + requires account",
+      "workaround": "Manual claim at yellowpages.com/claim"
+    }
+  ],
+  "tier1Status": {
+    "note": "All 5 TIER 1 sites require owner account credentials",
+    "sites": [
+      {"name": "Google Business Profile", "url": "https://business.google.com/create", "status": "needs-owner-action"},
+      {"name": "Yelp for Business", "url": "https://biz.yelp.com", "status": "needs-owner-action"},
+      {"name": "Bing Places", "url": "https://www.bingplaces.com", "status": "needs-owner-action"},
+      {"name": "Apple Business Connect", "url": "https://businessconnect.apple.com", "status": "needs-owner-action"},
+      {"name": "Facebook Business", "url": "https://business.facebook.com", "status": "needs-owner-action"}
+    ],
+    "nextSteps": "Owner needs to create accounts and submit listings. NAP info and descriptions are documented and ready."
+  },
+  "recommendedNextActions": [
+    "1. Submit to EZlocal (dash.ezlocal.com/newlisting/) - Free, easy signup",
+    "2. Submit to iGlobal (iglobal.co) - Free global directory",
+    "3. Contact owner about completing TIER 1 sites (Google, Yelp, Bing, Apple, FB)",
+    "4. Try manual submission to BBB (bbb.org/get-listed) - Free verification"
+  ]
+}

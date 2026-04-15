@@ -264,5 +264,41 @@
     "url": null,
     "listingUrl": null,
     "updatedAt": "2026-04-15T08:40:41.000Z"
+  },
+  {
+    "date": "2026-04-15T12:43:22.869Z",
+    "site": "iGlobal",
+    "tier": "TIER 2",
+    "status": "ready",
+    "notes": "Free global directory at iglobal.co - 60 countries coverage, free verification",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-15T12:43:22.896Z",
+    "site": "Cylex US",
+    "tier": "TIER 2",
+    "status": "ready",
+    "notes": "Free directory at cylex.us.com - Cloudflare blocked automation but manual submission available",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-15T12:43:22.907Z",
+    "site": "EZlocal",
+    "tier": "TIER 2",
+    "status": "ready",
+    "notes": "Free business listing at dash.ezlocal.com/newlisting/ - US-focused directory, no cost",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-15T12:43:33.537Z",
+    "site": "Daily Review - April 15, 2025 (Cron)",
+    "tier": "TIER 1",
+    "status": "in-progress",
+    "notes": "Research complete: 3 new TIER 2 directories identified (EZlocal, iGlobal, Cylex). All are free and ready for submission. All 5 TIER 1 sites require owner credentials. Phone: (949) 704-3678. Current actionable: 11 citations across TIER 2-4 ready for submission without account blockers.",
+    "url": null,
+    "listingUrl": null
   }
 ]
