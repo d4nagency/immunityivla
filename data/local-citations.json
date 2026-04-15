@@ -309,5 +309,32 @@
     "notes": "Research confirmed 3 TIER 2 directories (EZlocal - free verified; iGlobal - free/paid plans available; Cylex US - Cloudflare blocked but manual submission available). Phone confirmed (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner credentials for completion. 11 citations ready/queued across TIER 2-4 for manual submission.",
     "url": null,
     "listingUrl": null
+  },
+  {
+    "date": "2026-04-15T22:40:40.034Z",
+    "site": "Brownbook",
+    "tier": "TIER 2",
+    "status": "ready",
+    "notes": "Free citation site (DA 64). No account required to add listing at brownbook.net",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-15T22:40:40.038Z",
+    "site": "FreeListingUSA",
+    "tier": "TIER 2",
+    "status": "ready",
+    "notes": "Free USA business directory at freelistingusa.com - helps local SEO visibility",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-15T22:41:34.144Z",
+    "site": "Daily Review - April 15, 2026",
+    "tier": "TIER 1",
+    "status": "in-progress",
+    "notes": "Citation research complete. Phone confirmed: (949) 704-3678. All 5 TIER 1 sites still require owner credentials (Google, Yelp, Bing, Apple, Facebook). Added 2 new TIER 2 opportunities: Brownbook (DA 64, free, anyone can add/claim) and FreeListingUSA (free USA directory). Total actionable citations: 13 ready across TIER 2-4.",
+    "url": null,
+    "listingUrl": null
   }
 ]
