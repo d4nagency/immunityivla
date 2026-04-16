@@ -4,30 +4,30 @@
     "site": "Google Business Profile",
     "tier": "TIER 1",
     "status": "in-progress",
-    "notes": "Requires Google account sign-in. Use NAP: Immunity IV LA, https://immunityivla.com, hello@immunityivla.com. Categories: IV Therapy, Mobile Medical Services, Wellness. Hours: Mon-Sun 8AM-8PM. BUSINESS_PHONE env var needed.",
+    "notes": "Started listing creation process",
     "url": "https://business.google.com/create",
     "listingUrl": null,
-    "updatedAt": "2026-03-20T17:51:27.803Z"
+    "updatedAt": "2026-04-16T00:38:21.877Z"
   },
   {
     "date": "2026-02-27T17:46:36.602Z",
     "site": "Yelp for Business",
     "tier": "TIER 1",
     "status": "in-progress",
-    "notes": "Requires business account at https://biz.yelp.com. Use consistent NAP info. Add services: Immune Boost IV, Hydration IV, Mobile IV Therapy.",
+    "notes": "Account created, waiting for phone verification",
     "url": "https://biz.yelp.com",
     "listingUrl": null,
-    "updatedAt": "2026-03-20T17:52:02.474Z"
+    "updatedAt": "2026-04-16T00:38:23.980Z"
   },
   {
     "date": "2026-02-27T17:46:40.003Z",
     "site": "Bing Places",
     "tier": "TIER 1",
     "status": "in-progress",
-    "notes": "Requires Microsoft account. Sign up at https://www.bingplaces.com. Use consistent NAP. Categories: IV Therapy, Mobile Medical Services, Wellness. Business address needed for verification.",
+    "notes": "Account created, working on business profile",
     "url": "https://www.bingplaces.com",
     "listingUrl": null,
-    "updatedAt": "2026-03-20T17:52:43.342Z"
+    "updatedAt": "2026-04-16T00:38:26.354Z"
   },
   {
     "date": "2026-02-27T17:46:43.181Z",
