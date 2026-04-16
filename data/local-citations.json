@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-04-16T02:37:00.000Z",
+    "site": "Daily Citation Review",
+    "tier": "TIER 2",
+    "status": "ready",
+    "notes": "Daily check complete. Phone: (949) 704-3678. All 5 TIER 1 sites still need owner credentials. Verified 3 TIER 2 opportunities: Brownbook.net (free, no registration), EZlocal (free, requires account), BizHwy (free, requires signup). Total actionable: 15+ citations ready for submission.",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-16T02:37:00.000Z",
+    "site": "EZlocal",
+    "tier": "TIER 2",
+    "status": "ready",
+    "notes": "Free listing available at dash.ezlocal.com/newlisting/ - requires email signup and verification. Strong local SEO value.",
+    "url": "https://dash.ezlocal.com/newlisting/",
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-16T02:37:00.000Z",
+    "site": "BizHwy",
+    "tier": "TIER 2",
+    "status": "ready",
+    "notes": "Free business directory since 2003 at bizhwy.com/addlisting.php - requires registration but free for basic listing.",
+    "url": "https://www.bizhwy.com/addlisting.php",
+    "listingUrl": null
+  },
+  {
     "date": "2026-02-27T17:46:34.086Z",
     "site": "Google Business Profile",
     "tier": "TIER 1",
