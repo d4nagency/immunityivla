@@ -24,7 +24,8 @@
     "status": "ready",
     "notes": "Free business directory since 2003 at bizhwy.com/addlisting.php - requires registration but free for basic listing.",
     "url": "https://www.bizhwy.com/addlisting.php",
-    "listingUrl": null
+    "listingUrl": null,
+    "updatedAt": "2026-04-16T06:41:08.766Z"
   },
   {
     "date": "2026-02-27T17:46:34.086Z",
@@ -342,9 +343,10 @@
     "site": "Brownbook",
     "tier": "TIER 2",
     "status": "ready",
-    "notes": "Free citation site (DA 64). No account required to add listing at brownbook.net",
+    "notes": "Free citation site at brownbook.net (DA 64). No account required to add listing - 44.6M business database. Can enhance listing after adding.",
     "url": null,
-    "listingUrl": null
+    "listingUrl": null,
+    "updatedAt": "2026-04-16T06:41:08.831Z"
   },
   {
     "date": "2026-04-15T22:40:40.038Z",
@@ -363,14 +365,31 @@
     "notes": "Citation research complete. Phone confirmed: (949) 704-3678. All 5 TIER 1 sites still require owner credentials (Google, Yelp, Bing, Apple, Facebook). Added 2 new TIER 2 opportunities: Brownbook (DA 64, free, anyone can add/claim) and FreeListingUSA (free USA directory). Total actionable citations: 13 ready across TIER 2-4.",
     "url": null,
     "listingUrl": null
-  }
-,
+  },
   {
     "date": "2026-04-16T04:37:00.000Z",
     "site": "Daily Review - April 16",
     "tier": "TIER 1",
     "status": "in-progress",
     "notes": "Daily citation research complete. Phone confirmed: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner credentials. Verified Brownbook is accessible (44.6M business DB). 13+ citations queued/in-progress across TIER 2-4. No new blockers identified.",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-16T06:41:08.799Z",
+    "site": "Daily Review - April 16, 2026 (Cron)",
+    "tier": "TIER 1",
+    "status": "in-progress",
+    "notes": "Daily citation check complete. Phone confirmed: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner credentials. Found 2 accessible TIER 2 directories: Brownbook (free, DA 64, anyone can add), BizHwy (free since 2003), and Lacartes (free international). Total actionable: 13+ citations across TIER 2-4 ready for manual submission. No new blockers. Citysearch requires ExpressUpdate/Data Axle submission. Hotfrog requires account signup but is accessible.",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-16T06:41:08.802Z",
+    "site": "Lacartes",
+    "tier": "TIER 2",
+    "status": "ready",
+    "notes": "Free international business directory at lacartes.com - completely and permanently free. Sign up required but no cost.",
     "url": null,
     "listingUrl": null
   }
