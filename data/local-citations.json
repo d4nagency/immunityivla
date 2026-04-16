@@ -398,7 +398,17 @@
     "site": "Daily Review - April 16, 2026",
     "tier": "TIER 1",
     "status": "in-progress",
-    "notes": "Daily citation check complete. Phone confirmed: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner account credentials. 13+ citations in-progress across TIER 2-4. No new blockers identified. Ready for owner action on all priority listings.",
+    "notes": "Daily cron check. Phone: (949) 704-3678. All 5 TIER 1 sites require owner credentials. 13 actionable citations ready across TIER 2-4 (Brownbook, BizHwy, Lacartes, BBB, EZlocal, iGlobal, Superpages, etc.)",
+    "url": null,
+    "listingUrl": null,
+    "updatedAt": "2026-04-16T16:39:20.414Z"
+  },
+  {
+    "date": "2026-04-16T12:39:27.537Z",
+    "site": "Daily Citation Review - April 16, 2026",
+    "tier": "TIER 1",
+    "status": "in-progress",
+    "notes": "Daily check complete. Phone confirmed: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner account credentials. 13 citations ready across TIER 2-4. Next priority: Brownbook (free, accessible) and BizHwy (free since 2003).",
     "url": null,
     "listingUrl": null
   }
