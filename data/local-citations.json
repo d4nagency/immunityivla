@@ -435,7 +435,17 @@
     "site": "Daily Citation Review - April 17, 2026",
     "tier": "TIER 1-4",
     "status": "in-progress",
-    "notes": "11+ actionable citations ready: TIER 2 Brownbook, BizHwy, Lacartes, EZlocal, iGlobal confirmed accessible. TIER 1 still requires owner credentials (Google, Yelp, Bing, Apple, Facebook). Phone confirmed (949) 704-3678. The IV Directory offers free niche-specific listings.",
+    "notes": "Phone: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner credentials. 13+ citations ready across TIER 2-4. Research found 2 new high-value directories: Trustpilot (DA 92, free) and Nextdoor (DA 83, hyperlocal community platform). Also identified LinkedIn Company Pages and Patch as opportunities.",
+    "url": null,
+    "listingUrl": null,
+    "updatedAt": "2026-04-17T08:53:07.825Z"
+  },
+  {
+    "date": "2026-04-17T08:53:07.871Z",
+    "site": "Trustpilot",
+    "tier": "TIER 2",
+    "status": "ready",
+    "notes": "High authority review platform (DA 92). Free business listing. Consumers check reviews before purchasing. URL: trustpilot.com/review/immunityivla.com",
     "url": null,
     "listingUrl": null
   }
