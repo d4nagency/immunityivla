@@ -1,0 +1,53 @@
+{
+  "reportDate": "2026-04-20",
+  "business": {
+    "name": "Immunity IV LA",
+    "website": "https://immunityivla.com",
+    "phone": "(949) 704-3678",
+    "email": "hello@immunityivla.com"
+  },
+  "summary": {
+    "totalCompleted": 0,
+    "totalInProgress": 8,
+    "totalReady": 13,
+    "tier1Blocked": 5,
+    "waitingForOwnerAction": true
+  },
+  "citations": {
+    "tier1_blocked": [
+      {"name": "Google Business Profile", "reason": "Requires owner account credentials"},
+      {"name": "Yelp for Business", "reason": "Requires owner account credentials"},
+      {"name": "Bing Places", "reason": "Requires owner account credentials"},
+      {"name": "Apple Business Connect", "reason": "Requires owner Apple ID"},
+      {"name": "Facebook Business", "reason": "Requires Business Manager account"}
+    ],
+    "tier2_ready": [
+      {"name": "Brownbook", "note": "DA 64, free, no account required to add listing"},
+      {"name": "BizHwy", "note": "Free since 2003, requires registration"},
+      {"name": "EZlocal", "note": "Free listing, requires email signup"},
+      {"name": "iGlobal", "note": "Free global directory, 60 countries"},
+      {"name": "Trustpilot", "note": "DA 92, free business listing"},
+      {"name": "Superpages", "note": "Legacy directory, free listings"}
+    ],
+    "tier3_ready": [
+      {"name": "The IV Directory", "note": "IV therapy specific, free listings"},
+      {"name": "IV Therapy Locator", "note": "Healthcare-specific directory"},
+      {"name": "Vitals", "note": "Healthcare provider directory, 120M users/year"}
+    ],
+    "tier4_ready": [
+      {"name": "LA Business Directory", "note": "Local LA directory, free"},
+      {"name": "@LA Business Directory", "note": "Online since 1995, Health/Medicine category"}
+    ],
+    "tier2_inProgress": [
+      {"name": "BBB (Better Business Bureau)", "note": "Free listing at bbb.org/get-listed"},
+      {"name": "Chamber of Commerce", "note": "General directory, IV therapy category available"},
+      {"name": "Lacartes", "note": "Free international directory"}
+    ]
+  },
+  "nextActions": [
+    "Complete 3 TIER 2 citations: Brownbook, BizHwy, EZlocal (all free and accessible)",
+    "Set up TIER 1 accounts: Google Business Profile, Yelp, Bing Places, Apple Business Connect, Facebook",
+    "Submit to healthcare directories: The IV Directory, Vitals, IV Therapy Locator",
+    "Consider paid options for faster TIER 1 completion if budget allows"
+  ]
+}

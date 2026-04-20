@@ -595,5 +595,14 @@
     "notes": "Monday morning check. Phone: (949) 704-3678. All 5 TIER 1 sites still require owner credentials. 13+ TIER 2-4 citations ready for manual submission (Brownbook, BizHwy, EZlocal, Lacartes, iGlobal, BBB, Trustpilot, Chamber, Superpages, The IV Directory, IV Therapy Locator, LA Business Directory, Vitals). 0 total completions to date.",
     "url": null,
     "listingUrl": null
+  },
+  {
+    "date": "2026-04-20T15:18:00.000Z",
+    "site": "Daily Citation Report - April 20, 2026",
+    "tier": "TIER 1-4",
+    "status": "in-progress",
+    "notes": "Daily cron check complete. Phone: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner credentials. 13+ TIER 2-4 citations ready for manual submission. No new citations completed today. Updated status report at data/citation-status-report-2026-04-20.json. Next priority: Brownbook (DA 64, free, instant), BizHwy (free since 2003), EZlocal (free, established 2007).",
+    "url": null,
+    "listingUrl": null
   }
 ]

@@ -1,0 +1,300 @@
+[
+  {
+    "date": "2026-04-17T22:51:00.000Z",
+    "site": "Daily Review - April 17, 2026",
+    "tier": "TIER 1-4",
+    "status": "in-progress",
+    "notes": "Daily citation check complete. Phone: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) still require owner credentials. Verified 3 accessible TIER 2 directories ready for manual submission: Brownbook (DA 64, free, active), BizHwy (free since 2003, accepting), EZlocal (free, established 2007). No new completions. Total actionable: 15+ citations across TIER 2-4.",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-16T02:37:00.000Z",
+    "site": "Daily Citation Review",
+    "tier": "TIER 2",
+    "status": "ready",
+    "notes": "Daily check complete. Phone: (949) 704-3678. All 5 TIER 1 sites still need owner credentials. Verified 3 TIER 2 opportunities: Brownbook.net (free, no registration), EZlocal (free, requires account), BizHwy (free, requires signup). Total actionable: 15+ citations ready for submission.",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-16T02:37:00.000Z",
+    "site": "EZlocal",
+    "tier": "TIER 2",
+    "status": "ready",
+    "notes": "Free listing available at dash.ezlocal.com/newlisting/ - requires email signup and verification. Strong local SEO value.",
+    "url": "https://dash.ezlocal.com/newlisting/",
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-16T02:37:00.000Z",
+    "site": "BizHwy",
+    "tier": "TIER 2",
+    "status": "ready",
+    "notes": "Free business directory since 2003 at bizhwy.com/addlisting.php - requires registration but free for basic listing.",
+    "url": "https://www.bizhwy.com/addlisting.php",
+    "listingUrl": null,
+    "updatedAt": "2026-04-16T06:41:08.766Z"
+  },
+  {
+    "date": "2026-02-27T17:46:34.086Z",
+    "site": "Google Business Profile",
+    "tier": "TIER 1",
+    "status": "in-progress",
+    "notes": "Started listing creation process",
+    "url": "https://business.google.com/create",
+    "listingUrl": null,
+    "updatedAt": "2026-04-16T00:38:21.877Z"
+  },
+  {
+    "date": "2026-02-27T17:46:36.602Z",
+    "site": "Yelp for Business",
+    "tier": "TIER 1",
+    "status": "in-progress",
+    "notes": "Account created, waiting for phone verification",
+    "url": "https://biz.yelp.com",
+    "listingUrl": null,
+    "updatedAt": "2026-04-16T00:38:23.980Z"
+  },
+  {
+    "date": "2026-02-27T17:46:40.003Z",
+    "site": "Bing Places",
+    "tier": "TIER 1",
+    "status": "in-progress",
+    "notes": "Account created, working on business profile",
+    "url": "https://www.bingplaces.com",
+    "listingUrl": null,
+    "updatedAt": "2026-04-16T00:38:26.354Z"
+  },
+  {
+    "date": "2026-02-27T17:46:43.181Z",
+    "site": "Apple Business Connect",
+    "tier": "TIER 1",
+    "status": "in-progress",
+    "notes": "Requires Apple ID. Sign up at https://businessconnect.apple.com. Use consistent NAP. Provides Apple Maps visibility for 1B+ iPhone users. Critical for mobile users searching IV therapy in LA.",
+    "url": "https://businessconnect.apple.com",
+    "listingUrl": null,
+    "updatedAt": "2026-03-20T17:52:53.173Z"
+  },
+  {
+    "date": "2026-02-27T17:46:46.070Z",
+    "site": "Facebook Business",
+    "tier": "TIER 1",
+    "status": "blocked",
+    "notes": "BLOCKER: Requires Facebook Business Manager account - needs owner credentials",
+    "url": "https://business.facebook.com",
+    "listingUrl": null,
+    "updatedAt": "2026-03-07T17:47:00.000Z"
+  },
+  {
+    "date": "2026-02-28T17:43:50.779Z",
+    "site": "Hotfrog",
+    "tier": "TIER 2",
+    "status": "blocked",
+    "notes": "BLOCKER: Requires account registration at hotfrog.com/login/register + BUSINESS_PHONE not set",
+    "url": "https://www.hotfrog.com/add",
+    "listingUrl": null,
+    "updatedAt": "2026-03-07T17:47:00.000Z"
+  },
+  {
+    "date": "2026-02-28T17:43:50.834Z",
+    "site": "Foursquare",
+    "tier": "TIER 2",
+    "status": "blocked",
+    "notes": "BLOCKER: Requires free account signup at foursquare.com/signup + BUSINESS_PHONE not set",
+    "url": "https://foursquare.com/add-place",
+    "listingUrl": null,
+    "updatedAt": "2026-03-07T17:47:00.000Z"
+  },
+  {
+    "date": "2026-02-28T17:43:50.892Z",
+    "site": "Wellness.com",
+    "tier": "TIER 3",
+    "status": "blocked",
+    "notes": "BLOCKER: Paid directory ($$/month) - requires provider program signup",
+    "url": "https://www.wellness.com",
+    "listingUrl": null,
+    "updatedAt": "2026-03-07T17:47:00.000Z"
+  },
+  {
+    "date": "2026-02-28T17:43:50.948Z",
+    "site": "Manta",
+    "tier": "TIER 2",
+    "status": "blocked",
+    "notes": "BLOCKER: Cloudflare security verification blocking automated access - requires manual submission",
+    "url": "https://www.manta.com",
+    "listingUrl": null,
+    "updatedAt": "2026-03-07T17:47:00.000Z"
+  },
+  {
+    "date": "2026-03-03T17:44:55.229Z",
+    "site": "Yellow Pages",
+    "tier": "TIER 2",
+    "status": "blocked",
+    "notes": "BLOCKER: Cloudflare security blocking IP + requires account signup + BUSINESS_PHONE not set",
+    "url": "https://www.yellowpages.com/claim",
+    "listingUrl": null,
+    "updatedAt": "2026-03-07T17:47:00.000Z"
+  },
+  {
+    "date": "2026-03-07T17:47:00.000Z",
+    "site": "MerchantCircle",
+    "tier": "TIER 2",
+    "status": "pending",
+    "notes": "Accessible at merchantcircle.com/signup - requires free account + BUSINESS_PHONE",
+    "url": "https://www.merchantcircle.com/signup",
+    "listingUrl": null
+  },
+  {
+    "date": "2026-03-07T17:47:00.000Z",
+    "site": "MapQuest",
+    "tier": "TIER 2",
+    "status": "blocked",
+    "notes": "BLOCKER: Site error on load - may be temporarily unavailable or blocking automation",
+    "url": "https://www.mapquest.com",
+    "listingUrl": null
+  },
+  {
+    "date": "2026-03-12T17:49:13.215Z",
+    "site": "Daily Review - March 12",
+    "tier": "TIER 1",
+    "status": "blocked",
+    "notes": "BUSINESS_PHONE env var not set; All TIER 1 sites require owner account credentials (Google, Facebook, Apple, Microsoft)",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-03-18T17:48:34.645Z",
+    "site": "Daily Review - March 18",
+    "tier": "TIER 1",
+    "status": "blocked",
+    "notes": "BUSINESS_PHONE env var not set; All TIER 1 sites require owner account credentials (Google, Facebook, Apple, Microsoft)",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-03-30T17:48:09.575Z",
+    "site": "Daily Review - March 30",
+    "tier": "TIER 1",
+    "status": "in-progress",
+    "notes": "4 TIER 1 citations in progress (Google, Yelp, Bing, Apple). All require owner account credentials. 1 TIER 1 blocked (Facebook). BUSINESS_PHONE env var still needed.",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-09T17:54:58.574Z",
+    "site": "Daily Review - April 9",
+    "tier": "TIER 1",
+    "status": "in-progress",
+    "notes": "Phone number found: (949) 704-3678. All TIER 1 sites still require owner account credentials (Google, Yelp, Bing, Apple, Facebook)",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-13T17:50:38.070Z",
+    "site": "Daily Review - April 13",
+    "tier": "TIER 1",
+    "status": "in-progress",
+    "notes": "Phone confirmed: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner account credentials. Ready for owner to complete. TIER 2 BBB listing available at bbb.org/get-listed (free).",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-14T22:40:41.098Z",
+    "site": "BBB (Better Business Bureau)",
+    "tier": "TIER 2",
+    "status": "in-progress",
+    "notes": "Submission page verified at bbb.org/get-listed - free listing available, requires business verification",
+    "url": null,
+    "listingUrl": null,
+    "updatedAt": "2026-04-15T00:40:41.741Z"
+  },
+  {
+    "date": "2026-04-14T22:40:44.253Z",
+    "site": "IV Therapy Locator",
+    "tier": "TIER 3",
+    "status": "in-progress",
+    "notes": "Healthcare-specific directory at ivtherapydirectory.com - Nationwide IV therapy database. Provider signup via akamaiinnovations.com/join/",
+    "url": null,
+    "listingUrl": null,
+    "updatedAt": "2026-04-15T06:40:19.069Z"
+  },
+  {
+    "date": "2026-04-14T22:40:49.665Z",
+    "site": "@LA Business Directory",
+    "tier": "TIER 4",
+    "status": "in-progress",
+    "notes": "LA-specific directory at at-la.com - online since 1995, has Health/Medicine category for IV therapy",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-14T22:40:55.606Z",
+    "site": "Daily Review - April 14",
+    "tier": "TIER 1",
+    "status": "in-progress",
+    "notes": "Researched new citation opportunities. Phone confirmed (949) 704-3678. All 5 TIER 1 sites still need owner account credentials. Found 3 new viable Tier 2-4 directories: BBB, IV Therapy Locator, @LA Directory",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-15T00:40:41.734Z",
+    "site": "Chamber of Commerce",
+    "tier": "TIER 2",
+    "status": "in-progress",
+    "notes": "IV therapy businesses listed (Rescue Me example found). Category: Medical Clinic. Ready to submit.",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-15T04:38:51.833Z",
+    "site": "Daily Review - April 15",
+    "tier": "TIER 1",
+    "status": "in-progress",
+    "notes": "Daily citation check complete. Phone confirmed: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner account credentials. 8 citations in-progress across TIER 2-4 (BBB, Chamber of Commerce, The IV Directory, IV Therapy Locator, LA Business Directory, @LA Business Directory, Superpages, Vitals). Ready for submission on directories accessible without account blockers.",
+    "url": null,
+    "listingUrl": null,
+    "updatedAt": "2026-04-15T10:38:30.279Z"
+  },
+  {
+    "date": "2026-04-15T06:40:19.027Z",
+    "site": "The IV Directory",
+    "tier": "TIER 3",
+    "status": "in-progress",
+    "notes": "IV therapy specific directory - 45 providers listed in LA. Free listings available at theivdirectory.com/city/los-angeles-ca for Immune Boost category",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-15T06:40:19.088Z",
+    "site": "Los Angeles Business Directory",
+    "tier": "TIER 4",
+    "status": "in-progress",
+    "notes": "Local LA directory at businessdirectorylosangeles.com - Free business listings available",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-15T08:38:00.000Z",
+    "site": "Superpages",
+    "tier": "TIER 2",
+    "status": "in-progress",
+    "notes": "Legacy directory owned by DexMedia. Still accepting free business listings. Portal at superpages.com for adding new listings.",
+    "url": "https://www.superpages.com",
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-15T08:38:00.000Z",
+    "site": "Vitals",
+    "tier": "TIER 3",
+    "status": "in-progress",
+    "notes": "Healthcare provider directory (120M+ annual users). Vitals.com accepts listings for medical providers and wellness services. Can be claimed via Yext or directly.",
+    "url": "https://www.vitals.com",
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-15T08:40:41.000Z",
+    "site": "Daily Review - April 15",
+    "tier": "TIER 1",
+    "status": "in-progress",
+    "notes": "Daily citation research complete. Phone confirmed: (949) 704-3678. All 5 TIER 1 sites still require owner account credentials. 8 citations in-progress across TIER 2-4. Identified 2 new viable directories: Superpages (TIER 2 - DexMedia directory with free listings) and Vitals (TIER 3 - healthcare directory, 120M users/year). Current active citations: 8 in
