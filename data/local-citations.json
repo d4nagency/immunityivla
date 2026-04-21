@@ -592,10 +592,10 @@
     "site": "Daily Review - April 20, 2026",
     "tier": "TIER 1-4",
     "status": "in-progress",
-    "notes": "Monday check. Phone: (949) 704-3678. All 5 TIER 1 sites still require owner credentials. 13+ TIER 2-4 citations ready for manual submission: Brownbook (DA 64), BizHwy (free since 2003), EZlocal, Lacartes, iGlobal, BBB, Trustpilot (DA 92), Chamber of Commerce, Superpages, The IV Directory, IV Therapy Locator, LA Business Directory, Vitals. 0 new completions today.",
+    "notes": "Monday check complete. Phone: (949) 704-3678. All 5 TIER 1 sites require owner credentials. 13+ TIER 2-4 citations ready: Brownbook (DA 64, responding), BizHwy (free), BBB (get-listed verified), EZlocal, Lacartes, iGlobal, Trustpilot, Chamber, Superpages, The IV Directory, IV Therapy Locator, LA Business Directory, Vitals. No new completions - awaiting manual submission.",
     "url": null,
     "listingUrl": null,
-    "updatedAt": "2026-04-20T22:23:38.754Z"
+    "updatedAt": "2026-04-21T02:23:05.937Z"
   },
   {
     "date": "2026-04-20T15:18:00.000Z",
@@ -612,6 +612,15 @@
     "tier": "TIER 1-4",
     "status": "in-progress",
     "notes": "Daily check. Phone: (949) 704-3678. All 5 TIER 1 sites still require owner credentials. 13+ TIER 2-4 citations ready but no submissions completed today. Status report updated at data/citation-status-report-2026-04-20.json",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-21T02:23:16.383Z",
+    "site": "CityLocal 101",
+    "tier": "TIER 4",
+    "status": "ready",
+    "notes": "California-specific free business directory. US-focused with thousands of businesses listed. Accepts free listings for California businesses. Good for local SEO visibility in CA.",
     "url": null,
     "listingUrl": null
   }
