@@ -1,38 +1,11 @@
 [
   {
-    "date": "2026-04-17T12:48:00.000Z",
-    "site": "Daily Citation Report - April 17, 2026",
-    "tier": "TIER 2-4",
-    "status": "ready",
-    "notes": "13+ actionable citations ready. Focus on Brownbook (free, DA 64), EZlocal (free), and BizHwy (free). Phone: (949) 704-3678. All 5 TIER 1 sites require owner credentials.",
+    "date": "2026-04-24T14:33:00.000Z",
+    "site": "Daily Review - April 24, 2026 (Morning Cron)",
+    "tier": "TIER 1-4",
+    "status": "in-progress",
+    "notes": "Friday check. Phone: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner credentials. 14+ TIER 2-4 citations ready for manual submission (Brownbook-DA64, EZlocal, BizHwy, Lacartes, iGlobal, BBB, Trustpilot, Chamber, Superpages, The IV Directory, IV Therapy Locator, LA Business Directory, Vitals, CityLocal 101). No automated completions possible without owner account access. Week 5 status: Still at 0/100+ citations - owner action required.",
     "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-17T12:48:00.000Z",
-    "site": "Brownbook",
-    "tier": "TIER 2",
-    "status": "ready",
-    "notes": "FREE - No account required. DA 64. Anyone can add listing at brownbook.net. 44.6M business database. URGENCY: Complete today.",
-    "url": "https://www.brownbook.net",
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-17T12:48:00.000Z",
-    "site": "EZlocal",
-    "tier": "TIER 2",
-    "status": "ready",
-    "notes": "FREE - Strong local SEO value. Free listing at dash.ezlocal.com/newlisting/ - requires email signup.",
-    "url": "https://dash.ezlocal.com/newlisting/",
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-17T12:48:00.000Z",
-    "site": "BizHwy",
-    "tier": "TIER 2",
-    "status": "ready",
-    "notes": "FREE - Business directory since 2003. Free listing at bizhwy.com/addlisting.php - requires registration.",
-    "url": "https://www.bizhwy.com/addlisting.php",
     "listingUrl": null
   }
 ]
