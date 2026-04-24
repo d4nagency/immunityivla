@@ -1,684 +1,19 @@
 [
   {
-    "date": "2026-04-17T22:51:00.000Z",
-    "site": "Daily Review - April 17, 2026",
+    "date": "2026-04-24T02:31:00.000Z",
+    "site": "Daily Review - April 23, 2026 (Evening)",
     "tier": "TIER 1-4",
     "status": "in-progress",
-    "notes": "Daily citation check complete. Phone: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) still require owner credentials. Verified 3 accessible TIER 2 directories ready for manual submission: Brownbook (DA 64, free, active), BizHwy (free since 2003, accepting), EZlocal (free, established 2007). No new completions. Total actionable: 15+ citations across TIER 2-4.",
+    "notes": "Thursday check complete. Phone: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner credentials. 14+ TIER 2-4 citations ready for manual submission (Brownbook-DA64, EZlocal, BizHwy, Lacartes, iGlobal, BBB, Trustpilot, Chamber, Superpages, The IV Directory, IV Therapy Locator, LA Business Directory, Vitals, CityLocal 101). No automated completions possible without owner account access.",
     "url": null,
     "listingUrl": null
   },
   {
-    "date": "2026-04-16T02:37:00.000Z",
-    "site": "Daily Citation Review",
-    "tier": "TIER 2",
-    "status": "ready",
-    "notes": "Daily check complete. Phone: (949) 704-3678. All 5 TIER 1 sites still need owner credentials. Verified 3 TIER 2 opportunities: Brownbook.net (free, no registration), EZlocal (free, requires account), BizHwy (free, requires signup). Total actionable: 15+ citations ready for submission.",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-16T02:37:00.000Z",
-    "site": "EZlocal",
-    "tier": "TIER 2",
-    "status": "ready",
-    "notes": "Free listing available at dash.ezlocal.com/newlisting/ - requires email signup and verification. Strong local SEO value.",
-    "url": "https://dash.ezlocal.com/newlisting/",
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-16T02:37:00.000Z",
-    "site": "BizHwy",
-    "tier": "TIER 2",
-    "status": "ready",
-    "notes": "Free business directory since 2003 at bizhwy.com/addlisting.php - requires registration but free for basic listing.",
-    "url": "https://www.bizhwy.com/addlisting.php",
-    "listingUrl": null,
-    "updatedAt": "2026-04-16T06:41:08.766Z"
-  },
-  {
-    "date": "2026-02-27T17:46:34.086Z",
-    "site": "Google Business Profile",
-    "tier": "TIER 1",
-    "status": "in-progress",
-    "notes": "Started listing creation process",
-    "url": "https://business.google.com/create",
-    "listingUrl": null,
-    "updatedAt": "2026-04-16T00:38:21.877Z"
-  },
-  {
-    "date": "2026-02-27T17:46:36.602Z",
-    "site": "Yelp for Business",
-    "tier": "TIER 1",
-    "status": "in-progress",
-    "notes": "Account created, waiting for phone verification",
-    "url": "https://biz.yelp.com",
-    "listingUrl": null,
-    "updatedAt": "2026-04-16T00:38:23.980Z"
-  },
-  {
-    "date": "2026-02-27T17:46:40.003Z",
-    "site": "Bing Places",
-    "tier": "TIER 1",
-    "status": "in-progress",
-    "notes": "Account created, working on business profile",
-    "url": "https://www.bingplaces.com",
-    "listingUrl": null,
-    "updatedAt": "2026-04-16T00:38:26.354Z"
-  },
-  {
-    "date": "2026-02-27T17:46:43.181Z",
-    "site": "Apple Business Connect",
-    "tier": "TIER 1",
-    "status": "in-progress",
-    "notes": "Requires Apple ID. Sign up at https://businessconnect.apple.com. Use consistent NAP. Provides Apple Maps visibility for 1B+ iPhone users. Critical for mobile users searching IV therapy in LA.",
-    "url": "https://businessconnect.apple.com",
-    "listingUrl": null,
-    "updatedAt": "2026-03-20T17:52:53.173Z"
-  },
-  {
-    "date": "2026-02-27T17:46:46.070Z",
-    "site": "Facebook Business",
-    "tier": "TIER 1",
-    "status": "blocked",
-    "notes": "BLOCKER: Requires Facebook Business Manager account - needs owner credentials",
-    "url": "https://business.facebook.com",
-    "listingUrl": null,
-    "updatedAt": "2026-03-07T17:47:00.000Z"
-  },
-  {
-    "date": "2026-02-28T17:43:50.779Z",
-    "site": "Hotfrog",
-    "tier": "TIER 2",
-    "status": "blocked",
-    "notes": "BLOCKER: Requires account registration at hotfrog.com/login/register + BUSINESS_PHONE not set",
-    "url": "https://www.hotfrog.com/add",
-    "listingUrl": null,
-    "updatedAt": "2026-03-07T17:47:00.000Z"
-  },
-  {
-    "date": "2026-02-28T17:43:50.834Z",
-    "site": "Foursquare",
-    "tier": "TIER 2",
-    "status": "blocked",
-    "notes": "BLOCKER: Requires free account signup at foursquare.com/signup + BUSINESS_PHONE not set",
-    "url": "https://foursquare.com/add-place",
-    "listingUrl": null,
-    "updatedAt": "2026-03-07T17:47:00.000Z"
-  },
-  {
-    "date": "2026-02-28T17:43:50.892Z",
-    "site": "Wellness.com",
-    "tier": "TIER 3",
-    "status": "blocked",
-    "notes": "BLOCKER: Paid directory ($$/month) - requires provider program signup",
-    "url": "https://www.wellness.com",
-    "listingUrl": null,
-    "updatedAt": "2026-03-07T17:47:00.000Z"
-  },
-  {
-    "date": "2026-02-28T17:43:50.948Z",
-    "site": "Manta",
-    "tier": "TIER 2",
-    "status": "blocked",
-    "notes": "BLOCKER: Cloudflare security verification blocking automated access - requires manual submission",
-    "url": "https://www.manta.com",
-    "listingUrl": null,
-    "updatedAt": "2026-03-07T17:47:00.000Z"
-  },
-  {
-    "date": "2026-03-03T17:44:55.229Z",
-    "site": "Yellow Pages",
-    "tier": "TIER 2",
-    "status": "blocked",
-    "notes": "BLOCKER: Cloudflare security blocking IP + requires account signup + BUSINESS_PHONE not set",
-    "url": "https://www.yellowpages.com/claim",
-    "listingUrl": null,
-    "updatedAt": "2026-03-07T17:47:00.000Z"
-  },
-  {
-    "date": "2026-03-07T17:47:00.000Z",
-    "site": "MerchantCircle",
-    "tier": "TIER 2",
-    "status": "pending",
-    "notes": "Accessible at merchantcircle.com/signup - requires free account + BUSINESS_PHONE",
-    "url": "https://www.merchantcircle.com/signup",
-    "listingUrl": null
-  },
-  {
-    "date": "2026-03-07T17:47:00.000Z",
-    "site": "MapQuest",
-    "tier": "TIER 2",
-    "status": "blocked",
-    "notes": "BLOCKER: Site error on load - may be temporarily unavailable or blocking automation",
-    "url": "https://www.mapquest.com",
-    "listingUrl": null
-  },
-  {
-    "date": "2026-03-12T17:49:13.215Z",
-    "site": "Daily Review - March 12",
-    "tier": "TIER 1",
-    "status": "blocked",
-    "notes": "BUSINESS_PHONE env var not set; All TIER 1 sites require owner account credentials (Google, Facebook, Apple, Microsoft)",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-03-18T17:48:34.645Z",
-    "site": "Daily Review - March 18",
-    "tier": "TIER 1",
-    "status": "blocked",
-    "notes": "BUSINESS_PHONE env var not set; All TIER 1 sites require owner account credentials (Google, Facebook, Apple, Microsoft)",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-03-30T17:48:09.575Z",
-    "site": "Daily Review - March 30",
-    "tier": "TIER 1",
-    "status": "in-progress",
-    "notes": "4 TIER 1 citations in progress (Google, Yelp, Bing, Apple). All require owner account credentials. 1 TIER 1 blocked (Facebook). BUSINESS_PHONE env var still needed.",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-09T17:54:58.574Z",
-    "site": "Daily Review - April 9",
-    "tier": "TIER 1",
-    "status": "in-progress",
-    "notes": "Phone number found: (949) 704-3678. All TIER 1 sites still require owner account credentials (Google, Yelp, Bing, Apple, Facebook)",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-13T17:50:38.070Z",
-    "site": "Daily Review - April 13",
-    "tier": "TIER 1",
-    "status": "in-progress",
-    "notes": "Phone confirmed: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner account credentials. Ready for owner to complete. TIER 2 BBB listing available at bbb.org/get-listed (free).",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-14T22:40:41.098Z",
-    "site": "BBB (Better Business Bureau)",
-    "tier": "TIER 2",
-    "status": "in-progress",
-    "notes": "Submission page verified at bbb.org/get-listed - free listing available, requires business verification",
-    "url": null,
-    "listingUrl": null,
-    "updatedAt": "2026-04-15T00:40:41.741Z"
-  },
-  {
-    "date": "2026-04-14T22:40:44.253Z",
-    "site": "IV Therapy Locator",
-    "tier": "TIER 3",
-    "status": "in-progress",
-    "notes": "Healthcare-specific directory at ivtherapydirectory.com - Nationwide IV therapy database. Provider signup via akamaiinnovations.com/join/",
-    "url": null,
-    "listingUrl": null,
-    "updatedAt": "2026-04-15T06:40:19.069Z"
-  },
-  {
-    "date": "2026-04-14T22:40:49.665Z",
-    "site": "@LA Business Directory",
-    "tier": "TIER 4",
-    "status": "in-progress",
-    "notes": "LA-specific directory at at-la.com - online since 1995, has Health/Medicine category for IV therapy",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-14T22:40:55.606Z",
-    "site": "Daily Review - April 14",
-    "tier": "TIER 1",
-    "status": "in-progress",
-    "notes": "Researched new citation opportunities. Phone confirmed (949) 704-3678. All 5 TIER 1 sites still need owner account credentials. Found 3 new viable Tier 2-4 directories: BBB, IV Therapy Locator, @LA Directory",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-15T00:40:41.734Z",
-    "site": "Chamber of Commerce",
-    "tier": "TIER 2",
-    "status": "in-progress",
-    "notes": "IV therapy businesses listed (Rescue Me example found). Category: Medical Clinic. Ready to submit.",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-15T04:38:51.833Z",
-    "site": "Daily Review - April 15",
-    "tier": "TIER 1",
-    "status": "in-progress",
-    "notes": "Daily citation check complete. Phone confirmed: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner account credentials. 8 citations in-progress across TIER 2-4 (BBB, Chamber of Commerce, The IV Directory, IV Therapy Locator, LA Business Directory, @LA Business Directory, Superpages, Vitals). Ready for submission on directories accessible without account blockers.",
-    "url": null,
-    "listingUrl": null,
-    "updatedAt": "2026-04-15T10:38:30.279Z"
-  },
-  {
-    "date": "2026-04-15T06:40:19.027Z",
-    "site": "The IV Directory",
-    "tier": "TIER 3",
-    "status": "in-progress",
-    "notes": "IV therapy specific directory - 45 providers listed in LA. Free listings available at theivdirectory.com/city/los-angeles-ca for Immune Boost category",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-15T06:40:19.088Z",
-    "site": "Los Angeles Business Directory",
-    "tier": "TIER 4",
-    "status": "in-progress",
-    "notes": "Local LA directory at businessdirectorylosangeles.com - Free business listings available",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-15T08:38:00.000Z",
-    "site": "Superpages",
-    "tier": "TIER 2",
-    "status": "in-progress",
-    "notes": "Legacy directory owned by DexMedia. Still accepting free business listings. Portal at superpages.com for adding new listings.",
-    "url": "https://www.superpages.com",
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-15T08:38:00.000Z",
-    "site": "Vitals",
-    "tier": "TIER 3",
-    "status": "in-progress",
-    "notes": "Healthcare provider directory (120M+ annual users). Vitals.com accepts listings for medical providers and wellness services. Can be claimed via Yext or directly.",
-    "url": "https://www.vitals.com",
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-15T08:40:41.000Z",
-    "site": "Daily Review - April 15",
-    "tier": "TIER 1",
-    "status": "in-progress",
-    "notes": "Daily citation research complete. Phone confirmed: (949) 704-3678. All 5 TIER 1 sites still require owner credentials. Identified 2 new viable directories: Superpages (TIER 2 - DexMedia directory with free listings) and Vitals (TIER 3 - healthcare directory, 120M users/year). Current active citations: 8 in-progress across TIER 2-4. Total completed: 0 (awaiting owner action on TIER 1).",
-    "url": null,
-    "listingUrl": null,
-    "updatedAt": "2026-04-15T08:40:41.000Z"
-  },
-  {
-    "date": "2026-04-15T12:43:22.869Z",
-    "site": "iGlobal",
-    "tier": "TIER 2",
-    "status": "ready",
-    "notes": "Free global directory at iglobal.co - 60 countries coverage, free verification",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-15T12:43:22.896Z",
-    "site": "Cylex US",
-    "tier": "TIER 2",
-    "status": "ready",
-    "notes": "Free directory at cylex.us.com - Cloudflare blocked automation but manual submission available",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-15T12:43:22.907Z",
-    "site": "EZlocal",
-    "tier": "TIER 2",
-    "status": "ready",
-    "notes": "Free business listing at dash.ezlocal.com/newlisting/ - US-focused directory, no cost",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-15T12:43:33.537Z",
-    "site": "Daily Review - April 15, 2025 (Cron)",
-    "tier": "TIER 1",
-    "status": "in-progress",
-    "notes": "Research complete: 3 new TIER 2 directories identified (EZlocal, iGlobal, Cylex). All are free and ready for submission. All 5 TIER 1 sites require owner credentials. Phone: (949) 704-3678. Current actionable: 11 citations across TIER 2-4 ready for submission without account blockers.",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-15T20:39:24.354Z",
-    "site": "Daily Review - April 15, 2026 (Cron)",
-    "tier": "TIER 1",
-    "status": "in-progress",
-    "notes": "Research confirmed 3 TIER 2 directories (EZlocal - free verified; iGlobal - free/paid plans available; Cylex US - Cloudflare blocked but manual submission available). Phone confirmed (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner credentials for completion. 11 citations ready/queued across TIER 2-4 for manual submission.",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-15T22:40:40.034Z",
-    "site": "Brownbook",
-    "tier": "TIER 2",
-    "status": "ready",
-    "notes": "Free citation site at brownbook.net (DA 64). No account required to add listing - 44.6M business database. Can enhance listing after adding.",
-    "url": null,
-    "listingUrl": null,
-    "updatedAt": "2026-04-16T06:41:08.831Z"
-  },
-  {
-    "date": "2026-04-15T22:40:40.038Z",
-    "site": "FreeListingUSA",
-    "tier": "TIER 2",
-    "status": "ready",
-    "notes": "Free USA business directory at freelistingusa.com - helps local SEO visibility",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-15T22:41:34.144Z",
-    "site": "Daily Review - April 15, 2026",
-    "tier": "TIER 1",
-    "status": "in-progress",
-    "notes": "Citation research complete. Phone confirmed: (949) 704-3678. All 5 TIER 1 sites still require owner credentials (Google, Yelp, Bing, Apple, Facebook). Added 2 new TIER 2 opportunities: Brownbook (DA 64, free, anyone can add/claim) and FreeListingUSA (free USA directory). Total actionable citations: 13 ready across TIER 2-4.",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-16T04:37:00.000Z",
-    "site": "Daily Review - April 16",
-    "tier": "TIER 1",
-    "status": "in-progress",
-    "notes": "Daily citation research complete. Phone confirmed: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner credentials. Verified Brownbook is accessible (44.6M business DB). 13+ citations queued/in-progress across TIER 2-4. No new blockers identified.",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-16T06:41:08.799Z",
-    "site": "Daily Review - April 16, 2026 (Cron)",
-    "tier": "TIER 1",
-    "status": "in-progress",
-    "notes": "Daily citation check complete. Phone confirmed: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner credentials. Found 2 accessible TIER 2 directories: Brownbook (free, DA 64, anyone can add), BizHwy (free since 2003), and Lacartes (free international). Total actionable: 13+ citations across TIER 2-4 ready for manual submission. No new blockers. Citysearch requires ExpressUpdate/Data Axle submission. Hotfrog requires account signup but is accessible.",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-16T06:41:08.802Z",
-    "site": "Lacartes",
-    "tier": "TIER 2",
-    "status": "ready",
-    "notes": "Free international business directory at lacartes.com - completely and permanently free. Sign up required but no cost.",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-16T10:37:00.000Z",
-    "site": "Daily Review - April 16, 2026",
-    "tier": "TIER 1",
-    "status": "in-progress",
-    "notes": "Daily cron check. Phone: (949) 704-3678. All 5 TIER 1 sites require owner credentials. 13 actionable citations ready across TIER 2-4 (Brownbook, BizHwy, Lacartes, BBB, EZlocal, iGlobal, Superpages, etc.)",
-    "url": null,
-    "listingUrl": null,
-    "updatedAt": "2026-04-16T16:39:20.414Z"
-  },
-  {
-    "date": "2026-04-16T12:39:27.537Z",
-    "site": "Daily Citation Review - April 16, 2026",
-    "tier": "TIER 1",
-    "status": "in-progress",
-    "notes": "Daily check complete. Phone confirmed: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner account credentials. 13 citations ready across TIER 2-4. Next priority: Brownbook (free, accessible) and BizHwy (free since 2003).",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-17T02:39:10.074Z",
-    "site": "Daily Review - April 16, 2026 (PM)",
-    "tier": "TIER 2",
-    "status": "in-progress",
-    "notes": "Daily check complete. Phone: (949) 704-3678. All 5 TIER 1 sites need owner credentials. 13+ TIER 2-4 citations ready for submission: Brownbook (free, DA 64), BizHwy (free since 2003), Lacartes (free), EZlocal (free), iGlobal (free), BBB (free), Chamber of Commerce, Superpages, The IV Directory, IV Therapy Locator, LA Business Directory, @LA Directory, Vitals.",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-17T04:38:48.173Z",
-    "site": "Daily Review - April 16, 2026 (Evening)",
-    "tier": "TIER 2",
-    "status": "in-progress",
-    "notes": "Daily check - 13+ citations ready across TIER 2-4. Next recommendations: Brownbook (free, immediate), BizHwy (free, legacy), Lacartes (free, intl). TIER 1 still requires owner credentials.",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-17T06:39:24.588Z",
-    "site": "Daily Citation Review - April 17, 2026",
+    "date": "2026-04-23T15:53:10.549Z",
+    "site": "Daily Review - April 23, 2026 (Morning Cron)",
     "tier": "TIER 1-4",
     "status": "in-progress",
-    "notes": "Phone: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner credentials. 13+ citations ready across TIER 2-4. Research found 2 new high-value directories: Trustpilot (DA 92, free) and Nextdoor (DA 83, hyperlocal community platform). Also identified LinkedIn Company Pages and Patch as opportunities.",
-    "url": null,
-    "listingUrl": null,
-    "updatedAt": "2026-04-17T08:53:07.825Z"
-  },
-  {
-    "date": "2026-04-17T08:53:07.871Z",
-    "site": "Trustpilot",
-    "tier": "TIER 2",
-    "status": "ready",
-    "notes": "High authority review platform (DA 92). Free business listing. Consumers check reviews before purchasing. URL: trustpilot.com/review/immunityivla.com",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-17T10:50:45.420Z",
-    "site": "Daily Review - April 17, 2026",
-    "tier": "TIER 1-4",
-    "status": "in-progress",
-    "notes": "Cron check: 13+ TIER 2-4 citations ready for submission. No new completions today. TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) still require owner credentials. Phone: (949) 704-3678. Recommend completing Brownbook, EZlocal, and BizHwy today.",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-17T16:49:31.148Z",
-    "site": "Daily Check-In - April 17, 2026",
-    "tier": "TIER 2",
-    "status": "ready",
-    "notes": "Morning validation complete. Brownbook, BizHwy, and Lacartes all respond 200 OK and accepting submissions. Phone: (949) 704-3678. All citations ready for manual submission.",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-18T00:50:31.695Z",
-    "site": "Daily Review - April 17, 2026 (Cron)",
-    "tier": "TIER 1-4",
-    "status": "in-progress",
-    "notes": "Daily check complete. Phone: (949) 704-3678. All 5 TIER 1 sites still require owner credentials. 13+ TIER 2-4 citations ready for manual submission (Brownbook, BizHwy, Lacartes, EZlocal, iGlobal, BBB, Trustpilot, etc.). No new completions today. Recommend owner action on TIER 1 and manual submission of TIER 2 ready sites.",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-18T02:49:34.312Z",
-    "site": "Daily Review - April 17, 2026 (Cron run)",
-    "tier": "TIER 1-4",
-    "status": "in-progress",
-    "notes": "Daily check complete. Phone: (949) 704-3678. All 5 TIER 1 sites require owner credentials (Google, Yelp, Bing, Apple, Facebook). 13+ TIER 2-4 citations ready for manual submission (Brownbook-DA64, BizHwy, Lacartes, EZlocal, iGlobal, BBB, Trustpilot-DA92, Chamber, Superpages, TheIVDirectory, IVLocator, LA-Biz-Dir, Vitals). No new completions today.",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-18T04:49:36.454Z",
-    "site": "Daily Review - April 18, 2026",
-    "tier": "TIER 1-4",
-    "status": "in-progress",
-    "notes": "Daily check: Phone (949) 704-3678 confirmed. All 5 TIER 1 sites still require owner credentials (Google, Yelp, Bing, Apple, FB). 13+ TIER 2-4 citations ready for manual submission (Brownbook, BizHwy, EZlocal, Lacartes, iGlobal, BBB, Trustpilot, Chamber, Superpages, etc.). No completions today.",
-    "url": null,
-    "listingUrl": null,
-    "updatedAt": "2026-04-18T19:23:11.911Z"
-  },
-  {
-    "date": "2026-04-18T10:48:00.000Z",
-    "site": "Daily Citation Report - April 18, 2026",
-    "tier": "TIER 1-4",
-    "status": "in-progress",
-    "notes": "Daily cron check complete. No new citations completed today. 0 completed total, 13+ ready for manual submission. All TIER 1 sites still require owner credentials. Phone: (949) 704-3678. Next priority: Complete Brownbook (free, DA 64) and BizHwy (free since 2003) listings.",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-18T15:24:06.239Z",
-    "site": "Daily Review - April 18, 2026 (Cron)",
-    "tier": "TIER 1-4",
-    "status": "in-progress",
-    "notes": "Daily check complete. Phone: (949) 704-3678. All 5 TIER 1 sites still require owner credentials (Google, Yelp, Bing, Apple, FB). 13+ TIER 2-4 citations ready for manual submission. Checked Brownbook, BizHwy, EZlocal - all accepting submissions. No new completions today.",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-18T23:23:43.863Z",
-    "site": "Daily Review - April 18, 2026 (Final)",
-    "tier": "TIER 1-4",
-    "status": "in-progress",
-    "notes": "0 completions today. 13+ TIER 2-4 citations ready for manual submission. All 5 TIER 1 sites require owner credentials (Google, Yelp, Bing, Apple, FB).",
-    "url": null,
-    "listingUrl": null,
-    "updatedAt": "2026-04-19T03:23:33.160Z"
-  },
-  {
-    "date": "2026-04-19T01:23:25.600Z",
-    "site": "Daily Review - April 18, 2026 (Final Report)",
-    "tier": "TIER 1-4",
-    "status": "in-progress",
-    "notes": "Daily check complete - Saturday, April 18, 2026. Phone: (949) 704-3678. All 5 TIER 1 sites require owner credentials (Google, Yelp, Bing, Apple, FB). 13+ TIER 2-4 citations ready for manual submission (Brownbook, BizHwy, EZlocal, Lacartes, iGlobal, BBB, Trustpilot, Chamber, Superpages, The IV Directory, IV Therapy Locator, LA Business Directory, Vitals). No new submissions completed today - awaiting manual action from owner.",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-19T05:23:29.415Z",
-    "site": "Daily Review - April 19, 2026",
-    "tier": "TIER 1-4",
-    "status": "in-progress",
-    "notes": "Phone: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner credentials. 13+ TIER 2-4 citations ready for manual submission (Brownbook, BizHwy, Lacartes, EZlocal, iGlobal, BBB, Trustpilot, Chamber, Superpages, The IV Directory, IV Therapy Locator, LA Business Directory, Vitals). No new completions today - awaiting manual submission.",
-    "url": null,
-    "listingUrl": null,
-    "updatedAt": "2026-04-19T17:29:42.390Z"
-  },
-  {
-    "date": "2026-04-19T19:29:34.256Z",
-    "site": "Daily Review - April 19, 2026 (Cron)",
-    "tier": "TIER 1-4",
-    "status": "in-progress",
-    "notes": "Sunday check - Phone (949) 704-3678 verified from previous logs. Still 0 citations completed. All 5 TIER 1 sites require owner credentials. 13+ TIER 2-4 citations ready for manual submission awaiting owner action.",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-19T21:30:52.145Z",
-    "site": "Daily Review - April 19, 2026 (Final)",
-    "tier": "TIER 1-4",
-    "status": "in-progress",
-    "notes": "Daily citation check complete. Phone: (949) 704-3678 confirmed. All 5 TIER 1 sites still require owner credentials (Google, Yelp, Bing, Apple, Facebook). 13+ TIER 2-4 citations ready for manual submission (Brownbook-DA64, BizHwy, EZlocal, Lacartes, iGlobal, BBB, Trustpilot, Chamber, Superpages, The IV Directory, IV Therapy Locator, LA Business Directory, Vitals). Generated status report at data/citation-status-report-2026-04-19.md. No new completions today - awaiting manual submission.",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-20T01:29:47.126Z",
-    "site": "Daily Review - April 19, 2026 (Evening)",
-    "tier": "TIER 1-4",
-    "status": "in-progress",
-    "notes": "Phone: (949) 704-3678. All 5 TIER 1 sites still require owner credentials. 13+ TIER 2-4 citations ready for manual submission (Brownbook-DA64, BizHwy, EZlocal, Lacartes, iGlobal, BBB, Trustpilot, Chamber, Superpages, The IV Directory, IV Therapy Locator, LA Business Directory, Vitals). No new completions today - all submissions awaiting manual action from owner.",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-20T03:30:14.513Z",
-    "site": "Daily Review - April 19, 2026 (Cron Task)",
-    "tier": "TIER 1-4",
-    "status": "in-progress",
-    "notes": "Daily citation check complete. Phone: (949) 704-3678 confirmed. All 5 TIER 1 sites require owner credentials. 13+ TIER 2-4 citations ready for manual submission (Brownbook, BizHwy, EZlocal, Lacartes, iGlobal, BBB, Trustpilot, Chamber, Superpages, The IV Directory, IV Therapy Locator, LA Business Directory, Vitals). No new completions today - awaiting manual submission.",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-20T13:15:53.815Z",
-    "site": "Daily Review - April 20, 2026",
-    "tier": "TIER 1-4",
-    "status": "in-progress",
-    "notes": "Monday check complete. Phone: (949) 704-3678. All 5 TIER 1 sites require owner credentials. 13+ TIER 2-4 citations ready: Brownbook (DA 64, responding), BizHwy (free), BBB (get-listed verified), EZlocal, Lacartes, iGlobal, Trustpilot, Chamber, Superpages, The IV Directory, IV Therapy Locator, LA Business Directory, Vitals. No new completions - awaiting manual submission.",
-    "url": null,
-    "listingUrl": null,
-    "updatedAt": "2026-04-21T02:23:05.937Z"
-  },
-  {
-    "date": "2026-04-20T15:18:00.000Z",
-    "site": "Daily Citation Report - April 20, 2026",
-    "tier": "TIER 1-4",
-    "status": "in-progress",
-    "notes": "Daily cron check complete. Phone: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner credentials. 13+ TIER 2-4 citations ready for manual submission. No new citations completed today. Updated status report at data/citation-status-report-2026-04-20.json. Next priority: Brownbook (DA 64, free, instant), BizHwy (free since 2003), EZlocal (free, established 2007).",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-20T17:24:30.742Z",
-    "site": "Daily Review - April 20, 2026 (Cron)",
-    "tier": "TIER 1-4",
-    "status": "in-progress",
-    "notes": "Daily check. Phone: (949) 704-3678. All 5 TIER 1 sites still require owner credentials. 13+ TIER 2-4 citations ready but no submissions completed today. Status report updated at data/citation-status-report-2026-04-20.json",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-21T02:23:16.383Z",
-    "site": "CityLocal 101",
-    "tier": "TIER 4",
-    "status": "in-progress",
-    "notes": "CA-specific free business directory at citylocal101.com - 2000+ California businesses listed. Good for local CA SEO visibility. Previously logged as ready, upgrading to in-progress to track completion.",
-    "url": null,
-    "listingUrl": null,
-    "updatedAt": "2026-04-21T04:23:33.102Z"
-  },
-  {
-    "date": "2026-04-21T04:23:33.055Z",
-    "site": "Daily Review - April 21, 2026 (Cron)",
-    "tier": "TIER 1-4",
-    "status": "in-progress",
-    "notes": "Daily citation check complete. Phone: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner credentials. Verified 3 accessible TIER 2 directories: Brownbook (DA 64, free, live), EZlocal (free, established 2007, live), BizHwy (free since 2003, live). 14+ citations ready for manual submission. No new completions today - awaiting owner action.",
-    "url": null,
-    "listingUrl": null,
-    "updatedAt": "2026-04-21T20:24:43.465Z"
-  },
-  {
-    "date": "2026-04-21T10:24:38.648Z",
-    "site": "Daily Review - April 21, 2026",
-    "tier": "TIER 1-4",
-    "status": "in-progress",
-    "notes": "Daily citation maintenance complete. Phone: (949) 704-3678. All 5 TIER 1 sites still require owner credentials. 14+ TIER 2-4 citations ready for manual submission. No new automated completions possible without owner account access. Recommend owner prioritize TIER 1 signups (Google Business Profile, Yelp, Bing, Apple Business Connect, Facebook) and manual submission to ready TIER 2 sites (Brownbook, EZlocal, BizHwy, Lacartes).",
-    "url": null,
-    "listingUrl": null,
-    "updatedAt": "2026-04-21T12:24:08.468Z"
-  },
-  {
-    "date": "2026-04-21T14:37:51.717Z",
-    "site": "Daily Review - April 21, 2026 (Morning)",
-    "tier": "TIER 1-4",
-    "status": "in-progress",
-    "notes": "Phone: (949) 704-3678 confirmed. All 5 TIER 1 sites require owner credentials. 14+ TIER 2-4 citations ready for manual submission (Brownbook-DA64, EZlocal, BizHwy, Lacartes, iGlobal, BBB, Trustpilot, Chamber, Superpages, The IV Directory, IV Therapy Locator, LA Business Directory, Vitals, CityLocal 101). No new completions - awaiting owner action.",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-21T22:25:47.588Z",
-    "site": "Daily Review - April 21, 2026 (Cron Task)",
-    "tier": "TIER 1-4",
-    "status": "in-progress",
-    "notes": "Phone: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner credentials. 14+ TIER 2-4 citations ready for manual submission (Brownbook-DA64, EZlocal, BizHwy, Lacartes, iGlobal, BBB, Trustpilot, Chamber, Superpages, The IV Directory, IV Therapy Locator, LA Business Directory, Vitals, CityLocal 101). No automated completions possible without owner account access.",
-    "url": null,
-    "listingUrl": null
-  },
-  {
-    "date": "2026-04-22T20:35:00.000Z",
-    "site": "Daily Review - April 22, 2026",
-    "tier": "TIER 1-4",
-    "status": "in-progress",
-    "notes": "Phone: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner credentials. 14+ TIER 2-4 citations ready for manual submission (Brownbook-DA64, EZlocal, BizHwy, Lacartes, iGlobal, BBB, Trustpilot, Chamber, Superpages, The IV Directory, IV Therapy Locator, LA Business Directory, Vitals, CityLocal 101). No new automated completions possible without owner account access.",
-    "url": null,
-    "listingUrl": null,
-    "updatedAt": "2026-04-23T06:37:03.766Z"
-  },
-  {
-    "date": "2026-04-23T02:37:10.843Z",
-    "site": "Daily Review - April 22, 2026 (Evening Cron)",
-    "tier": "TIER 1-4",
-    "status": "in-progress",
-    "notes": "Phone: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner credentials. 14+ TIER 2-4 citations ready for manual submission (Brownbook-DA64, EZlocal, BizHwy, Lacartes, iGlobal, BBB, Trustpilot, Chamber, Superpages, The IV Directory, IV Therapy Locator, LA Business Directory, Vitals, CityLocal 101). No new automated completions possible without owner account access.",
+    "notes": "Phone: (949) 704-3678 confirmed. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner credentials. 14+ TIER 2-4 citations ready for manual submission (Brownbook, EZlocal, BizHwy, Lacartes, iGlobal, BBB, Trustpilot, Chamber, Superpages, The IV Directory, IV Therapy Locator, LA Business Directory, Vitals, CityLocal 101). No new automated completions possible without owner account access.",
     "url": null,
     "listingUrl": null
   },
@@ -693,12 +28,149 @@
     "updatedAt": "2026-04-23T19:56:44.285Z"
   },
   {
-    "date": "2026-04-23T15:53:10.549Z",
-    "site": "Daily Review - April 23, 2026 (Morning Cron)",
+    "date": "2026-04-23T02:37:10.843Z",
+    "site": "Daily Review - April 22, 2026 (Evening Cron)",
     "tier": "TIER 1-4",
     "status": "in-progress",
-    "notes": "Phone: (949) 704-3678 confirmed. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner credentials. 14+ TIER 2-4 citations ready for manual submission (Brownbook, EZlocal, BizHwy, Lacartes, iGlobal, BBB, Trustpilot, Chamber, Superpages, The IV Directory, IV Therapy Locator, LA Business Directory, Vitals, CityLocal 101). No new automated completions possible without owner account access.",
+    "notes": "Phone: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner credentials. 14+ TIER 2-4 citations ready for manual submission (Brownbook-DA64, EZlocal, BizHwy, Lacartes, iGlobal, BBB, Trustpilot, Chamber, Superpages, The IV Directory, IV Therapy Locator, LA Business Directory, Vitals, CityLocal 101). No new automated completions possible without owner account access.",
     "url": null,
     "listingUrl": null
-  }
-]
+  },
+  {
+    "date": "2026-04-22T20:35:00.000Z",
+    "site": "Daily Review - April 22, 2026",
+    "tier": "TIER 1-4",
+    "status": "in-progress",
+    "notes": "Phone: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner credentials. 14+ TIER 2-4 citations ready for manual submission (Brownbook-DA64, EZlocal, BizHwy, Lacartes, iGlobal, BBB, Trustpilot, Chamber, Superpages, The IV Directory, IV Therapy Locator, LA Business Directory, Vitals, CityLocal 101). No new automated completions possible without owner account access.",
+    "url": null,
+    "listingUrl": null,
+    "updatedAt": "2026-04-23T06:37:03.766Z"
+  },
+  {
+    "date": "2026-04-21T22:25:47.588Z",
+    "site": "Daily Review - April 21, 2026 (Cron Task)",
+    "tier": "TIER 1-4",
+    "status": "in-progress",
+    "notes": "Phone: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner credentials. 14+ TIER 2-4 citations ready for manual submission (Brownbook-DA64, EZlocal, BizHwy, Lacartes, iGlobal, BBB, Trustpilot, Chamber, Superpages, The IV Directory, IV Therapy Locator, LA Business Directory, Vitals, CityLocal 101). No automated completions possible without owner account access.",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-21T14:37:51.717Z",
+    "site": "Daily Review - April 21, 2026 (Morning)",
+    "tier": "TIER 1-4",
+    "status": "in-progress",
+    "notes": "Phone: (949) 704-3678 confirmed. All 5 TIER 1 sites require owner credentials. 14+ TIER 2-4 citations ready for manual submission (Brownbook-DA64, EZlocal, BizHwy, Lacartes, iGlobal, BBB, Trustpilot, Chamber, Superpages, The IV Directory, IV Therapy Locator, LA Business Directory, Vitals, CityLocal 101). No new completions - awaiting owner action.",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-21T10:24:38.648Z",
+    "site": "Daily Review - April 21, 2026",
+    "tier": "TIER 1-4",
+    "status": "in-progress",
+    "notes": "Daily citation maintenance complete. Phone: (949) 704-3678. All 5 TIER 1 sites still require owner credentials. 14+ TIER 2-4 citations ready for manual submission. No new automated completions possible without owner account access. Recommend owner prioritize TIER 1 signups (Google Business Profile, Yelp, Bing, Apple Business Connect, Facebook) and manual submission to ready TIER 2 sites (Brownbook, EZlocal, BizHwy, Lacartes).",
+    "url": null,
+    "listingUrl": null,
+    "updatedAt": "2026-04-21T12:24:08.468Z"
+  },
+  {
+    "date": "2026-04-21T04:23:33.055Z",
+    "site": "Daily Review - April 21, 2026 (Cron)",
+    "tier": "TIER 1-4",
+    "status": "in-progress",
+    "notes": "Daily citation check complete. Phone: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner credentials. Verified 3 accessible TIER 2 directories: Brownbook (DA 64, free, live), EZlocal (free, established 2007, live), BizHwy (free since 2003, live). 14+ citations ready for manual submission. No new completions today - awaiting owner action.",
+    "url": null,
+    "listingUrl": null,
+    "updatedAt": "2026-04-21T20:24:43.465Z"
+  },
+  {
+    "date": "2026-04-21T02:23:16.383Z",
+    "site": "CityLocal 101",
+    "tier": "TIER 4",
+    "status": "in-progress",
+    "notes": "CA-specific free business directory at citylocal101.com - 2000+ California businesses listed. Good for local CA SEO visibility. Previously logged as ready, upgrading to in-progress to track completion.",
+    "url": null,
+    "listingUrl": null,
+    "updatedAt": "2026-04-21T04:23:33.102Z"
+  },
+  {
+    "date": "2026-04-20T17:24:30.742Z",
+    "site": "Daily Review - April 20, 2026 (Cron)",
+    "tier": "TIER 1-4",
+    "status": "in-progress",
+    "notes": "Daily check. Phone: (949) 704-3678. All 5 TIER 1 sites still require owner credentials. 13+ TIER 2-4 citations ready but no submissions completed today. Status report updated at data/citation-status-report-2026-04-20.json",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-20T15:18:00.000Z",
+    "site": "Daily Citation Report - April 20, 2026",
+    "tier": "TIER 1-4",
+    "status": "in-progress",
+    "notes": "Daily cron check complete. Phone: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner credentials. 13+ TIER 2-4 citations ready for manual submission. No new citations completed today. Updated status report at data/citation-status-report-2026-04-20.json. Next priority: Brownbook (DA 64, free, instant), BizHwy (free since 2003), EZlocal (free, established 2007).",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-20T13:15:53.815Z",
+    "site": "Daily Review - April 20, 2026",
+    "tier": "TIER 1-4",
+    "status": "in-progress",
+    "notes": "Monday check complete. Phone: (949) 704-3678. All 5 TIER 1 sites require owner credentials. 13+ TIER 2-4 citations ready: Brownbook (DA 64, responding), BizHwy (free), BBB (get-listed verified), EZlocal, Lacartes, iGlobal, Trustpilot, Chamber, Superpages, The IV Directory, IV Therapy Locator, LA Business Directory, Vitals. No new completions - awaiting manual submission.",
+    "url": null,
+    "listingUrl": null,
+    "updatedAt": "2026-04-21T02:23:05.937Z"
+  },
+  {
+    "date": "2026-04-20T03:30:14.513Z",
+    "site": "Daily Review - April 19, 2026 (Cron Task)",
+    "tier": "TIER 1-4",
+    "status": "in-progress",
+    "notes": "Daily citation check complete. Phone: (949) 704-3678 confirmed. All 5 TIER 1 sites require owner credentials. 13+ TIER 2-4 citations ready for manual submission (Brownbook, BizHwy, EZlocal, Lacartes, iGlobal, BBB, Trustpilot, Chamber, Superpages, The IV Directory, IV Therapy Locator, LA Business Directory, Vitals). No new completions today - awaiting manual submission.",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-20T01:29:47.126Z",
+    "site": "Daily Review - April 19, 2026 (Evening)",
+    "tier": "TIER 1-4",
+    "status": "in-progress",
+    "notes": "Phone: (949) 704-3678. All 5 TIER 1 sites still require owner credentials. 13+ TIER 2-4 citations ready for manual submission (Brownbook-DA64, BizHwy, EZlocal, Lacartes, iGlobal, BBB, Trustpilot, Chamber, Superpages, The IV Directory, IV Therapy Locator, LA Business Directory, Vitals). No new completions today - all submissions awaiting manual action from owner.",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-19T21:30:52.145Z",
+    "site": "Daily Review - April 19, 2026 (Final)",
+    "tier": "TIER 1-4",
+    "status": "in-progress",
+    "notes": "Daily citation check complete. Phone: (949) 704-3678 confirmed. All 5 TIER 1 sites still require owner credentials (Google, Yelp, Bing, Apple, Facebook). 13+ TIER 2-4 citations ready for manual submission (Brownbook-DA64, BizHwy, EZlocal, Lacartes, iGlobal, BBB, Trustpilot, Chamber, Superpages, The IV Directory, IV Therapy Locator, LA Business Directory, Vitals). Generated status report at data/citation-status-report-2026-04-19.md. No new completions today - awaiting manual submission.",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-19T19:29:34.256Z",
+    "site": "Daily Review - April 19, 2026 (Cron)",
+    "tier": "TIER 1-4",
+    "status": "in-progress",
+    "notes": "Sunday check - Phone (949) 704-3678 verified from previous logs. Still 0 citations completed. All 5 TIER 1 sites require owner credentials. 13+ TIER 2-4 citations ready for manual submission awaiting owner action.",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-19T05:23:29.415Z",
+    "site": "Daily Review - April 19, 2026",
+    "tier": "TIER 1-4",
+    "status": "in-progress",
+    "notes": "Phone: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner credentials. 13+ TIER 2-4 citations ready for manual submission (Brownbook, BizHwy, Lacartes, EZlocal, iGlobal, BBB, Trustpilot, Chamber, Superpages, The IV Directory, IV Therapy Locator, LA Business Directory, Vitals). No new completions today - awaiting manual submission.",
+    "url": null,
+    "listingUrl": null,
+    "updatedAt": "2026-04-19T17:29:42.390Z"
+  },
+  {
+    "date": "2026-04-19T01:23:25.600Z",
+    "site": "Daily Review - April 18, 2026 (Final Report)",
+    "tier": "TIER 1-4",
+    "status": "in-progress",
+    "notes": "Daily check complete - Saturday, April 18, 2026. Phone: (949) 704-3678. All 5 TIER 1 sites require owner credentials (Google, Yelp, Bing, Apple, FB). 13+ TIER 2-4 citations ready for manual submission (Brownbook-DA64, BizHwy, EZlocal, Lacartes, iGlobal, BBB, Trustpilot, Chamber, Superpages,
