@@ -203,5 +203,41 @@
     "notes": "Verified 3 TIER 2 sites accessible (Brownbook DA 64, EZlocal, BizHwy CA). All TIER 1 require owner credentials. 14+ TIER 2-4 citations ready. Week 5: 0/100+ completed. Daily report saved to data/daily-report-2026-04-24.md",
     "url": null,
     "listingUrl": null
+  },
+  {
+    "date": "2026-04-25T00:48:49.934Z",
+    "site": "Brownbook.net",
+    "tier": "TIER 2",
+    "status": "verified",
+    "notes": "DA 64 directory, confirms FREE listings available - accessible, ready for submission. URL: https://www.brownbook.net",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-25T00:48:49.963Z",
+    "site": "EZlocal.com",
+    "tier": "TIER 2",
+    "status": "verified",
+    "notes": "Free business listing site established 2007, AI-optimized profiles, Schema.org markup. URL: https://ezlocal.com",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-25T00:48:49.977Z",
+    "site": "BizHwy.com California",
+    "tier": "TIER 4",
+    "status": "verified",
+    "notes": "CA-specific directory with Healthcare category (15,343 listings). Free since 2003. URL: https://california.bizhwy.com",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-25T00:48:49.994Z",
+    "site": "Lacartes.com",
+    "tier": "TIER 2",
+    "status": "verified",
+    "notes": "Global directory with 1.6M+ listings, photos/videos/pricing support. URL: https://www.lacartes.com",
+    "url": null,
+    "listingUrl": null
   }
 ]
