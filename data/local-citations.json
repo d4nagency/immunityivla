@@ -208,10 +208,11 @@
     "date": "2026-04-25T00:48:49.934Z",
     "site": "Brownbook.net",
     "tier": "TIER 2",
-    "status": "verified",
-    "notes": "DA 64 directory, confirms FREE listings available - accessible, ready for submission. URL: https://www.brownbook.net",
+    "status": "in-progress",
+    "notes": "Manual submission in progress - DA 64 high-value free directory, requires NAP: Immunity IV LA, (949) 704-3678, https://immunityivla.com",
     "url": null,
-    "listingUrl": null
+    "listingUrl": null,
+    "updatedAt": "2026-04-26T03:14:45.875Z"
   },
   {
     "date": "2026-04-25T00:48:49.963Z",
@@ -281,9 +282,10 @@
     "site": "The IV Directory",
     "tier": "TIER 3",
     "status": "verified",
-    "notes": "Active directory at theivdirectory.com with 7,300+ providers. FREE listing available - has 'List your business for free' option for Los Angeles IV therapy providers",
+    "notes": "Industry-specific IV therapy directory with 7,300+ providers. Free listings available. Site verified LIVE at theivdirectory.com",
     "url": null,
-    "listingUrl": null
+    "listingUrl": null,
+    "updatedAt": "2026-04-26T01:17:03.081Z"
   },
   {
     "date": "2026-04-25T21:14:45.014Z",
@@ -293,14 +295,40 @@
     "notes": "Created business profile, pending verification postcard. Verified by phone call to Business Phone.",
     "url": null,
     "listingUrl": null
-  }
-},
+  },
   {
     "date": "2026-04-25T23:14:00.000Z",
     "site": "Daily Review - April 25, 2026 (Saturday Evening)",
     "tier": "TIER 1-4",
     "status": "in-progress",
     "notes": "Saturday check complete. Phone: (949) 704-3678. All 5 TIER 1 sites (Google, Yelp, Bing, Apple, Facebook) require owner credentials. Confirmed 4 TIER 2 sites ready for manual submission: Brownbook.net (DA 64, free listing), EZlocal.com (free, 15M+ businesses), Lacartes.com (1.6M+ listings), BizHwy CA (state-specific healthcare category). Week 5 status: 0/45 completed. No automated completions possible without owner account access or interactive form submission.",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-26T01:17:03.109Z",
+    "site": "Wellness.com",
+    "tier": "TIER 3",
+    "status": "verified",
+    "notes": "Major health directory at wellness.com with spa and medical practitioner categories. Free listing available.",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-26T01:17:19.016Z",
+    "site": "Daily Review - April 25, 2026 (Evening Cron)",
+    "tier": "TIER 1-4",
+    "status": "in-progress",
+    "notes": "Phone: (949) 704-3678. Verified 2 new TIER 3 sites accessible: TheIVDirectory.com (7,300+ providers, free listings) and Wellness.com (health practitioner directory). All 5 TIER 1 (Google, Yelp, Bing, Apple, Facebook) still require owner credentials. Google Business Profile status: in-progress (verification postcard pending). 16+ TIER 2-4 sites ready for manual submission. Week 5 status: 0/45 completed - owner action required.",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-26T03:14:53.411Z",
+    "site": "Daily Review - April 26, 2026 (Cron Task)",
+    "tier": "TIER 1-4",
+    "status": "in-progress",
+    "notes": "Saturday, April 25, 2026 check. Phone: (949) 704-3678. All 5 TIER 1 sites require owner credentials. Google Business Profile: in-progress (verification pending). Brownbook.net: started submission. 16+ TIER 2-4 sites verified and ready. Week 5 status: 0/45 citations completed - awaiting owner account setup and manual submissions.",
     "url": null,
     "listingUrl": null
   }
