@@ -235,20 +235,21 @@
     "date": "2026-04-25T00:48:49.934Z",
     "site": "Brownbook.net",
     "tier": "TIER 2",
-    "status": "in-progress",
-    "notes": "Manual submission in progress - DA 64 high-value free directory, requires NAP: Immunity IV LA, (949) 704-3678, https://immunityivla.com",
+    "status": "verified-accessible",
+    "notes": "Re-verified accessible April 26. DA 64, 44.6M businesses, FREE listing tier available",
     "url": null,
     "listingUrl": null,
-    "updatedAt": "2026-04-26T03:14:45.875Z"
+    "updatedAt": "2026-04-26T09:22:06.446Z"
   },
   {
     "date": "2026-04-25T00:48:49.963Z",
     "site": "EZlocal.com",
     "tier": "TIER 2",
-    "status": "verified",
-    "notes": "Free business listing site established 2007, AI-optimized profiles, Schema.org markup. URL: https://ezlocal.com",
+    "status": "verified-accessible",
+    "notes": "Re-verified accessible April 26. Site promotes Top 10 Free Business Listing Citation Sites",
     "url": null,
-    "listingUrl": null
+    "listingUrl": null,
+    "updatedAt": "2026-04-26T09:22:06.470Z"
   },
   {
     "date": "2026-04-25T00:48:49.977Z",
@@ -263,10 +264,11 @@
     "date": "2026-04-25T00:48:49.994Z",
     "site": "Lacartes.com",
     "tier": "TIER 2",
-    "status": "verified",
-    "notes": "Global directory with 1.6M+ listings, photos/videos/pricing support. URL: https://www.lacartes.com",
+    "status": "verified-accessible",
+    "notes": "Re-verified accessible April 26. 1.7M listings across 248 countries,",
     "url": null,
-    "listingUrl": null
+    "listingUrl": null,
+    "updatedAt": "2026-04-26T09:22:06.477Z"
   },
   {
     "date": "2026-04-25T04:47:50.291Z",
