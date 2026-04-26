@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-04-26T05:15:00.000Z",
+    "site": "Daily Review - April 26, 2026",
+    "tier": "TIER 1-4",
+    "status": "in-progress",
+    "notes": "Saturday, April 25, 2026 check complete. Phone: (949) 704-3678. GOOGLE BUSINESS PROFILE: in-progress (verification postcard pending). Verified 2 NEW accessible sites: iGlobal.co (18M+ companies, 61 countries, free tier available), Hotfrog.com (has Add Business functionality, 403 on direct access but site verified). Total 18+ TIER 2-4 sites ready for manual submission: Brownbook.net (DA 64), EZlocal.com, Lacartes.com, BizHwy CA, Yellow Pages, iGlobal.co, Hotfrog.com, The IV Directory, Wellness.com, LA IV Therapy Locator, Zocdoc, Vitals, RateMDs, LA Business Directory, CityLocal 101, plus others. TIER 1 still require owner credentials (Google verification pending, Yelp, Bing, Apple, Facebook). Week 5 status: Still 0 completed - owner action required.",
+    "url": null,
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-26T05:15:00.000Z",
+    "site": "iGlobal.co",
+    "tier": "TIER 2",
+    "status": "verified",
+    "notes": "Global directory with 18M+ registered companies across 61 countries. Free Silver plan available ($24/year) with business registration, SEO optimization, promotion creation, back linking. URL: https://www.iglobal.co",
+    "url": "https://www.iglobal.co",
+    "listingUrl": null
+  },
+  {
+    "date": "2026-04-26T05:15:00.000Z",
+    "site": "Hotfrog.com",
+    "tier": "TIER 2",
+    "status": "verified",
+    "notes": "Business directory with Add Business functionality (requires auth). Established directory, good for local citations. URL: https://www.hotfrog.com/add",
+    "url": "https://www.hotfrog.com/add",
+    "listingUrl": null
+  },
+  {
     "date": "2026-04-24T02:31:00.000Z",
     "site": "Daily Review - April 23, 2026 (Evening)",
     "tier": "TIER 1-4",
