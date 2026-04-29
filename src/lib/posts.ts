@@ -36,7 +36,7 @@ export function getAllPosts(): BlogPost[] {
         title: data.title,
         description: data.description,
         content: content,
-        publishDate: data.publishDate,
+        publishDate: data.publishDate || data.date,
         author: data.author,
         tags: data.tags || [],
       };
