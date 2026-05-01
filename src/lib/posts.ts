@@ -39,6 +39,7 @@ export function getAllPosts(): BlogPost[] {
         publishDate: data.publishDate || data.date,
         author: data.author,
         tags: data.tags || [],
+        image: data.image || undefined,
       };
     });
   

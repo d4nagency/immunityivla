@@ -321,10 +321,11 @@
     "date": "2026-04-25T21:14:45.014Z",
     "site": "Google Business Profile",
     "tier": "TIER 1",
-    "status": "in_progress",
-    "notes": "Created business profile, pending verification postcard. Verified by phone call to Business Phone.",
+    "status": "pending",
+    "notes": "Task started. Manual intervention required to complete Google Business Profile setup.",
     "url": null,
-    "listingUrl": null
+    "listingUrl": null,
+    "updatedAt": "2026-05-01T07:36:49.658Z"
   },
   {
     "date": "2026-04-25T23:14:00.000Z",
