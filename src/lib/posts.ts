@@ -16,6 +16,49 @@ export interface BlogPost {
 
 const postsDirectory = path.join(process.cwd(), 'content/posts');
 
+export const posts: Partial<BlogPost>[] = [
+  {
+    slug: 'hydration-iv-santa-monica',
+    title: 'Hydration IV Santa Monica — Mobile Therapy',
+    description: 'Stay hydrated and revitalized with our mobile Hydration IV therapy in Santa Monica, Los Angeles. Perfect for beach days, active lifestyles, and wellness enthusiasts.',
+    publishDate: '2026-05-02',
+    author: 'Immunity IV',
+    tags: ['Hydration', 'Santa Monica', 'Los Angeles', 'Mobile IV', 'Wellness'],
+  },
+  {
+    slug: 'hydration-iv-marina-del-rey',
+    title: 'Hydration IV Marina del Rey — Mobile Therapy',
+    description: 'Stay revitalized and refreshed with our mobile Hydration IV therapy in Marina del Rey, Los Angeles. The perfect wellness solution for active waterfront lifestyles and boaters.',
+    publishDate: '2026-05-03',
+    author: 'Immunity IV',
+    tags: ['Hydration', 'Marina del Rey', 'Los Angeles', 'Mobile IV', 'Wellness', 'Waterfront'],
+  },
+  {
+    slug: 'beauty-iv-drip-beverly-hills',
+    title: 'Beauty IV Drip Beverly Hills — Glow & Hydration',
+    description: 'Enhance your natural radiance with our premium Beauty IV Drip in Beverly Hills, Los Angeles. Mobile wellness services designed for skin, hair, and nail rejuvenation.',
+    publishDate: '2026-05-03',
+    author: 'Immunity IV',
+    tags: ['Beauty', 'Beverly Hills', 'Los Angeles', 'Mobile IV', 'Wellness', 'Skin Care'],
+  },
+  {
+    slug: 'beauty-iv-drip-beverly-hills',
+    title: 'Beauty IV Drip Beverly Hills — Glow & Hydration',
+    description: 'Enhance your natural radiance with our premium Beauty IV Drip in Beverly Hills, Los Angeles. Mobile wellness services designed for skin, hair, and nail rejuvenation.',
+    publishDate: '2026-05-03',
+    author: 'Immunity IV',
+    tags: ['Beauty', 'Beverly Hills', 'Los Angeles', 'Mobile IV', 'Wellness', 'Skin Care'],
+  },
+  {
+    slug: 'nad-iv-therapy-marina-del-rey',
+    title: 'NAD+ IV Therapy Marina del Rey — Energy & Cellular Health',
+    description: 'Experience rejuvenation and enhanced energy with NAD+ IV therapy in Marina del Rey, Los Angeles. Our mobile service brings cellular health and anti-aging benefits directly to your doorstep.',
+    publishDate: '2026-05-03',
+    author: 'Immunity IV',
+    tags: ['NAD+', 'Marina del Rey', 'Los Angeles', 'Mobile IV', 'Wellness', 'Anti-Aging'],
+  },
+];
+
 export function getAllPosts(): BlogPost[] {
   // Ensure directory exists
   if (!fs.existsSync(postsDirectory)) {
