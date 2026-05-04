@@ -321,11 +321,11 @@
     "date": "2026-04-25T21:14:45.014Z",
     "site": "Google Business Profile",
     "tier": "TIER 1",
-    "status": "pending",
-    "notes": "Identified as next priority. Manual intervention or specialized automation required for Google Business Profile setup.",
+    "status": "in-progress",
+    "notes": "Requires manual user login and verification via Google account. Cannot automate login.",
     "url": null,
     "listingUrl": null,
-    "updatedAt": "2026-05-02T17:00:10.492Z"
+    "updatedAt": "2026-05-04T02:39:47.277Z"
   },
   {
     "date": "2026-04-25T23:14:00.000Z",

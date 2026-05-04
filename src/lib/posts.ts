@@ -42,22 +42,30 @@ export const posts: Partial<BlogPost>[] = [
     tags: ['Beauty', 'Beverly Hills', 'Los Angeles', 'Mobile IV', 'Wellness', 'Skin Care'],
   },
   {
-    slug: 'beauty-iv-drip-beverly-hills',
-    title: 'Beauty IV Drip Beverly Hills — Glow & Hydration',
-    description: 'Enhance your natural radiance with our premium Beauty IV Drip in Beverly Hills, Los Angeles. Mobile wellness services designed for skin, hair, and nail rejuvenation.',
+    slug: 'hangover-iv-hollywood',
+    title: 'Hangover IV Hollywood — Fast Recovery at Your Doorstep',
+    description: 'Bounce back quickly with our mobile Hangover IV therapy in Hollywood, Los Angeles. Professional recovery services for nightlife, weekends, and more.',
     publishDate: '2026-05-03',
     author: 'Immunity IV',
-    tags: ['Beauty', 'Beverly Hills', 'Los Angeles', 'Mobile IV', 'Wellness', 'Skin Care'],
+    tags: ['Hangover', 'Hollywood', 'Los Angeles', 'Mobile IV', 'Recovery'],
   },
   {
-    slug: 'nad-iv-therapy-marina-del-rey',
-    title: 'NAD+ IV Therapy Marina del Rey — Energy & Cellular Health',
-    description: 'Experience rejuvenation and enhanced energy with NAD+ IV therapy in Marina del Rey, Los Angeles. Our mobile service brings cellular health and anti-aging benefits directly to your doorstep.',
-    publishDate: '2026-05-03',
+    slug: 'hangover-iv-west-hollywood',
+    title: 'Hangover IV West Hollywood — Fast Recovery at Your Doorstep',
+    description: 'Bounce back from your night out in West Hollywood with our professional mobile Hangover IV therapy. Fast, effective recovery delivered straight to your door.',
+    publishDate: '2026-05-04',
     author: 'Immunity IV',
-    tags: ['NAD+', 'Marina del Rey', 'Los Angeles', 'Mobile IV', 'Wellness', 'Anti-Aging'],
+    tags: ['Hangover', 'West Hollywood', 'Los Angeles', 'Mobile IV', 'Recovery', 'WeHo'],
   },
-];
+  {
+    slug: 'hydration-iv-venice',
+    title: 'Hydration IV Venice — Mobile Therapy',
+    description: 'Stay revitalized and refreshed with our mobile Hydration IV therapy in Venice, Los Angeles. Perfect for active beach lifestyles, surfers, and wellness enthusiasts.',
+    publishDate: '2026-05-04',
+    author: 'Immunity IV',
+    tags: ['Hydration', 'Venice', 'Los Angeles', 'Mobile IV', 'Wellness'],
+  },
+
 
 export function getAllPosts(): BlogPost[] {
   // Ensure directory exists

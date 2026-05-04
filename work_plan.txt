@@ -1,0 +1,150 @@
+Target List (City | Theme | Lifestyle Context):
+Santa Monica | Hydration (H) | Beach/Active
+Venice | Hangover (B) | Nightlife/Beach
+Marina del Rey | NAD+ (N) | Affluent/Waterfront
+Pacific Palisades | Beauty (B) | Affluent/Coastal
+Brentwood | NAD+ (N) | Affluent/Residential
+Westwood | Hydration (H) | Student/Active
+Century City | Beauty (B) | Affluent/Business
+Culver City | Hangover (B) | Entertainment/Tech
+West Los Angeles | Hydration (H) | Residential/Active
+Malibu | NAD+ (N) | Affluent/Coastal
+Topanga | NAD+ (N) | Affluent/Nature
+Bel Air | NAD+ (N) | Affluent/Residential
+West Hollywood | Hangover (B) | Nightlife/Fashion
+Studio City | Myers' (M) | Professional/Residential
+Sherman Oaks | Beauty (B) | Affluent/Residential
+Encino | NAD+ (N) | Affluent/Residential
+Tarzana | NAD+ (N) | Affluent/Residential
+Woodland Hills | Hydration (H) | Active/Residential
+Calabasas | NAD+ (N) | Affluent/Residential
+Hidden Hills | NAD+ (N) | Affluent/Residential
+Agoura Hills | NAD+ (N) | Affluent/Residential
+Thousand Oaks | NAD+ (N) | Affluent/Residential
+Northridge | Hydration (H) | Residential/Active
+Granada Hills | Hydration (H) | Residential/Active
+North Hollywood | Hangover (B) | Entertainment/Residential
+Van Nuys | Hydration (H) | Residential/Active
+Reseda | Hydration (H) | Residential/Active
+Canoga Park | Hangover (B) | Residential/Active
+Winnetka | Hydration (H) | Residential/Active
+Chatsworth | Hangover (B) | Residential/Active
+Porter Ranch | Myers' (M) | Professional/Residential
+Panorama City | Hydration (H) | Residential/Active
+Sun Valley | Hydration (H) | Residential/Active
+Burbank | Hangover (B) | Entertainment/Residential
+Glendale | Hangover (B) | Professional/Residential
+La Canada Flintridge | NAD+ (N) | Affluent/Residential
+La Crescenta | Hydration (H) | Residential/Active
+Tujunga | Myers' (M) | Residential/Nature
+Sunland | Myers' (M) | Residential/Nature
+Downtown LA | Hangover (B) | Entertainment/Business
+Echo Park | Hydration (H) | Active/Residential
+Silver Lake | Beauty (B) | Creative/Residential
+Los Feliz | Myers' (M) | Professional/Residential
+Atwater Village | Hydration (H) | Active/Residential
+Glassell Park | Myers' (M) | Residential/Active
+Highland Park | Myers' (M) | Creative/Residential
+Eagle Rock | Hydration (H) | Residential/Active
+Mt. Washington | Hydration (H) | Residential/Nature
+Boyle Heights | Hydration (H) | Residential/Active
+Lincoln Heights | Hydration (H) | Residential/Active
+El Sereno | Hydration (H) | Residential/Active
+Montecito Heights | Hydration (H) | Residential/Active
+Cypress Park | Hydration (H) | Residential/Active
+Elysian Valley | Hydration (H) | Residential/Nature
+Chinatown | Hydration (H) | Tourism/Residential
+Little Tokyo | Hangover (B) | Entertainment/Residential
+Arts District | Hangover (B) | Entertainment/Residential
+Fashion District | Beauty (B) | Fashion/Business
+South Park | Hangover (B) | Entertainment/Business
+Historic Core | Hangover (B) | Entertainment/Residential
+Financial District | Myers' (M) | Professional/Business
+Bunker Hill | NAD+ (N) | Affluent/Business
+Figueroa Corridor | Hydration (H) | Active/Residential
+East LA | Hydration (H) | Residential/Active
+Montebello | Hydration (H) | Residential/Active
+Commerce | Hydration (H) | Residential/Active
+Bell Gardens | Hydration (H) | Residential/Active
+Maywood | Hydration (H) | Residential/Active
+Vernon | Hydration (H) | Residential/Active
+Huntington Park | Hangover (B) | Residential/Active
+South Gate | Hydration (H) | Residential/Active
+Lynwood | Hydration (H) | Residential/Active
+Compton | Hydration (H) | Residential/Active
+Watts | Hydration (H) | Residential/Active
+Florence | Hydration (H) | Residential/Active
+South Central | Hydration (H) | Residential/Active
+Exposition Park | Hydration (H) | Active/Residential
+University Park | Myers' (M) | Professional/Academic
+West Adams | Hydration (H) | Residential/Active
+Torrance | Hangover (B) | Residential/Active
+Redondo Beach | Beauty (B) | Affluent/Beach
+Hermosa Beach | Hangover (B) | Nightlife/Beach
+Manhattan Beach | Hangover (B) | Nightlife/Beach
+El Segundo | Hangover (B) | Residential/Active
+Hawthorne | Hangover (B) | Residential/Active
+Lawndale | Hydration (H) | Residential/Active
+Gardena | Hydration (H) | Residential/Active
+Carson | Hangover (B) | Residential/Active
+San Pedro | Hangover (B) | Residential/Active
+Wilmington | Hydration (H) | Residential/Active
+Lomita | Hangover (B) | Residential/Active
+Harbor City | Hangover (B) | Residential/Active
+Harbor Gateway | Hangover (B) | Residential/Active
+Palos Verdes | NAD+ (N) | Affluent/Coastal
+Rolling Hills | NAD+ (N) | Affluent/Residential
+Long Beach | Hangover (B) | Nightlife/Beach
+Pasadena | Myers' (M) | Professional/Residential
+South Pasadena | Myers' (M) | Residential/Professional
+Altadena | Myers' (M) | Residential/Active
+Sierra Madre | Myers' (M) | Residential/Nature
+Arcadia | Myers' (M) | Affluent/Residential
+Monrovia | Myers' (M) | Residential/Professional
+Duarte | Myers' (M) | Residential/Active
+Azusa | Myers' (M) | Residential/Active
+Glendora | Myers' (M) | Residential/Active
+San Dimas | Myers' (M) | Residential/Active
+La Verne | Myers' (M) | Residential/Professional
+Claremont | Myers' (M) | Academic/Professional
+Upland | Myers' (M) | Residential/Active
+Ontario | Myers' (M) | Residential/Active
+Rancho Cucamonga | Myers' (M) | Residential/Active
+Fontana | Hydration (H) | Residential/Active
+Rialto | Hydration (H) | Residential/Active
+San Bernardino | Hydration (H) | Residential/Active
+Riverside | Hydration (H) | Residential/Active
+Corona | Hydration (H) | Residential/Active
+Norco | Hydration (H) | Residential/Active
+Chino | Hydration (H) | Residential/Active
+Pomona | Hydration (H) | Residential/Active
+Walnut | Myers' (M) | Affluent/Residential
+Diamond Bar | NAD+ (N) | Affluent/Residential
+Rowland Heights | Myers' (M) | Residential/Active
+Hacienda Heights | Myers' (M) | Residential/Active
+La Habra | Myers' (M) | Residential/Active
+Whittier | Myers' (M) | Residential/Active
+Pico Rivera | Hydration (H) | Residential/Active
+Santa Fe Springs | Hydration (H) | Residential/Active
+Downey | Hangover (B) | Residential/Active
+Bellflower | Myers' (M) | Residential/Active
+Lakewood | Beauty (B) | Residential/Active
+Cerritos | Myers' (M) | Residential/Professional
+Artesia | Myers' (M) | Residential/Active
+Norwalk | Hydration (H) | Residential/Active
+Buena Park | Myers' (M) | Residential/Active
+La Mirada | Myers' (M) | Residential/Active
+Fullerton | Myers' (M) | Residential/Active
+Anaheim | Myers' (M) | Residential/Active
+Orange | Myers' (M) | Residential/Active
+Santa Ana | NAD+ (N) | Residential/Active
+Costa Mesa | Beauty (B) | Affluent/Lifestyle
+Newport Beach | NAD+ (N) | Affluent/Coastal
+Irvine | Myers' (M) | Professional/Residential
+Huntington Beach | Hangover (B) | Nightlife/Beach
+Westminster | Myers' (M) | Residential/Active
+Garden Grove | Myers' (M) | Residential/Active
+Stanton | Myers' (M) | Residential/Active
+Cypress | Myers' (M) | Residential/Active
+Los Alamitos | Myers' (M) | Residential/Active
+Seal Beach | Myers' (M) | Residential/Active
